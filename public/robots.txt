@@ -1,0 +1,33 @@
+# robots.txt — https://www.atlastechnologiesindia.com
+# Allows all crawlers, including AI/LLM bots. Only /cgi-bin/ is disallowed.
+
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+
+# --- AI / LLM crawlers (explicitly allowed) ---
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://www.atlastechnologiesindia.com/sitemap.xml

@@ -1,0 +1,54 @@
+{
+  "name": "atlas",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/generate-sitemap.js && next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^3.1.0",
+    "@next/mdx": "^15.2.5",
+    "@react-jvectormap/world": "^1.1.2",
+    "@sendgrid/mail": "^8.1.6",
+    "clsx": "^2.1.1",
+    "embla-carousel": "^8.6.0",
+    "embla-carousel-auto-scroll": "^8.6.0",
+    "embla-carousel-autoplay": "^8.6.0",
+    "embla-carousel-react": "^8.5.2",
+    "framer-motion": "^12.6.3",
+    "glob": "^11.0.3",
+    "gray-matter": "^4.0.3",
+    "lucide-react": "^0.556.0",
+    "motion": "^12.23.26",
+    "next": "15.2.4",
+    "next-mdx-remote": "^5.0.0",
+    "nodemailer": "^6.10.0",
+    "rc-slider": "^11.1.8",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-fast-marquee": "^1.6.5",
+    "react-phone-input-2": "^2.15.1",
+    "react-player": "^2.16.0",
+    "react-scroll": "^1.9.3",
+    "react-spinners": "^0.15.0",
+    "tailwind-merge": "^3.4.0",
+    "vanilla-infinite-marquee": "^1.0.13",
+    "winston": "^3.19.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.4",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.2"
+  },
+  "allowScripts": {
+    "sharp@0.33.5": true
+  }
+}

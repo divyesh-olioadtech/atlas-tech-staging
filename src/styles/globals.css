@@ -1,0 +1,256 @@
+@import "tailwindcss";
+body {
+  font-family: "DM Sans", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+h1,
+h2,
+h3 {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+.plus {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+.pitag {
+  @apply text-[#4063D7] text-[14px] font-bold tracking-widest;
+}
+.h2t {
+  @apply text-[#1A1D2D] leading-[1.3] font-bold text-[24px] sm:text-[28px] md:text-[35px] lg:text-[42px];
+}
+.ptag {
+  @apply text-[#606370]  leading-[1.5] text-[14px] sm:text-[15px] md:text-[16px] lg:text-[16px];
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 1s ease-out forwards;
+}
+
+.buttons {
+  @apply font-bold   text-[#12121C] rounded-[12px] text-[16px] text-center hover:bg-[#8FD254] cursor-pointer border-[1px]  border-[#8FD254] p-[15px];
+}
+.rm {
+  @apply my-8 sm:my-12 md:my-16 lg:my-20;
+}
+.h1t {
+  @apply text-[42px] sm:text-[52px] md:text-[55px] lg:text-[64px] font-bold text-[#FFFFFF];
+}
+.textpara {
+  @apply text-[18px] sm:text-[20px] md:text-[22px] lg:text-[24px] font-normal text-[#FFFFFF];
+}
+.buttonsb {
+  @apply rounded-[12px] text-[14px] md:text-[16px] text-center  cursor-pointer border-[1px]  p-[15px];
+}
+.textpara1 {
+  @apply text-[14px] sm:text-[20px] md:text-[22px] lg:text-[24px];
+}
+.group:active .your-hover-element {
+  opacity: 90; /* or any other effect */
+  transform: scale(1);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease-in-out forwards;
+}
+
+.animate-fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.active-card .animate-fade-in {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.active-card .animate-fadeIn {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (min-width: 1700px) {
+  .custom-1800 {
+    padding-left: 5%;
+    padding-right: 5%;
+    max-width: 1536px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (min-width: 1700px) {
+  .remove-pl-1700 {
+    padding-left: 0 !important;
+  }
+}
+.reset-p-color p {
+  color: inherit !important;
+}
+
+.custom-blog h1 {
+  @apply text-[24px] sm:text-[32px] md:text-[35px] lg:text-[42px] font-bold  leading-[1.2]  text-[#1A1D2D];
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+.custom-blog h2 {
+  @apply text-[22px] sm:text-[24px] md:text-[28px] lg:text-[32px] leading-[1.2] font-bold mt-10 mb-4 text-gray-800;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+.custom-blog h3 {
+  @apply text-[18px] sm:text-[18px] md:text-[19px] lg:text-[20px] leading-[1.2]  font-bold mt-8 mb-3 text-gray-800;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+.custom-blog p {
+  @apply text-[16px] font-normal leading-[150%] text-[#606370] mt-2 mb-4;
+  font-family: "DM Sans", sans-serif;
+}
+.custom-blog ul {
+  @apply list-disc pl-5 text-[16px] mb-8 text-[#606370];
+}
+.custom-blog li {
+  @apply mb-2;
+}
+.custom-blog blockquote {
+  @apply border-l-4 border-gray-400 pl-4 italic text-gray-600 my-6;
+}
+.custom-blog img {
+  @apply rounded-lg my-6 w-full;
+}
+.custom-blog {
+  @apply mx-auto max-w-6xl px-[5%];
+}
+.blog-content a {
+  @apply text-green-600 hover:text-green-800 underline transition-colors duration-200;
+}
+
+.table-style {
+  @apply table-auto border border-gray-400 border-collapse w-full text-sm;
+}
+
+.table-style th,
+.table-style td {
+  @apply border border-gray-400 px-4 py-2;
+}
+
+.table-style thead {
+  @apply bg-gray-200;
+}
+
+.asphalt-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+
+.asphalt-table th,
+.asphalt-table td {
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+}
+
+.asphalt-table thead {
+  background-color: #f3f3f3;
+  font-weight: bold;
+}
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+
+.blog-content {
+    color: #606370;
+    font-size: 17px;
+    line-height: 1.8;
+}
+
+
+.blog-content p {
+    margin-bottom: 24px;
+}
+
+
+.blog-content h2 {
+    color: #1A1D2D;
+    font-size: 34px;
+    line-height: 1.25;
+    font-weight: 700;
+    margin-top: 55px;
+    margin-bottom: 20px;
+}
+
+
+.blog-content h3 {
+    color: #1A1D2D;
+    font-size: 24px;
+    line-height: 1.4;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+
+.blog-content ul {
+    margin: 20px 0 30px 25px;
+    list-style-type: disc;
+}
+
+
+.blog-content li {
+    margin-bottom: 10px;
+}
+
+
+.blog-content table {
+    width: 100%;
+    margin: 35px 0;
+    border-collapse: collapse;
+}
+
+
+.blog-content th {
+    background: #f1f6f1;
+    color: #1A1D2D;
+    font-weight: 700;
+    padding: 14px;
+    border: 1px solid #ddd;
+}
+
+
+.blog-content td {
+    padding: 14px;
+    border: 1px solid #ddd;
+}
+
+
+.blog-content img {
+    width: 100%;
+    height: auto;
+    border-radius: 14px;
+    margin: 35px 0;
+}

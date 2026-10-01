@@ -1,0 +1,211 @@
+import FAQSection2 from "../../../../components/category/faq2";
+import FeatureGrid from "../../../../components/others/FeatureGrid";
+import FeatureSlider from "../../../../components/others/FeatureSlider;";
+import Productfaq from "../../../../components/others/productFaq";
+import ProductSlider2 from "../../../../components/others/productSlider";
+import Video from "../../../../components/others/video";
+import ProductSlider from "../../../../components/products/productslider";
+
+export default function ABP80() {
+  const product = {
+    title: "ABP Series (80)",
+    subtitle: "60–80 TPH | Stationary | 1000 KG",
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard. Lorem Ipsum has been the industry's standard.",
+    features: [
+      "Easy to Use",
+      "Rugged and strong structure",
+      "Low maintenance cost",
+    ],
+    images: [
+      "/images/comman/product_s.png",
+      "/images/comman/product_s.png",
+      "/images/comman/product_s.png",
+      "/images/comman/product_s.png",
+      "/images/comman/product_s.png",
+      "/images/comman/product_s.png",
+    ],
+  };
+
+  const faqData = [
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+  ];
+
+  const featureData = [
+    {
+      title: "Compact Design",
+      desc: "Lorem Ipsum is simply dummy text of the printing industry.",
+      image: "/images/comman/slider.png",
+    },
+    {
+      title: "Wide Capacity Range",
+      desc: "It has survived not only five centuries of text.",
+      image: "/images/comman/slider.png",
+    },
+    {
+      title: "Foundation Less Design",
+      desc: "Simple dummy text of the printing industry.",
+      image: "/images/comman/slider.png",
+    },
+    {
+      title: "1 Hydra Crane",
+      desc: "Used in the construction and mechanical work.",
+      image: "/images/comman/slider.png",
+    },
+    {
+      title: "Compact Design",
+      desc: "Lorem Ipsum is simply dummy text of the printing industry.",
+      image: "/images/comman/slider.png",
+    },
+    {
+      title: "Wide Capacity Range",
+      desc: "It has survived not only five centuries of text.",
+      image: "/images/comman/slider.png",
+    },
+    {
+      title: "Foundation Less Design",
+      desc: "Simple dummy text of the printing industry.",
+      image: "/images/comman/slider.png",
+    },
+    {
+      title: "1 Hydra Crane",
+      desc: "Used in the construction and mechanical work.",
+      image: "/images/comman/slider.png",
+    },
+  ];
+  const featuresData = [
+    {
+      title: "Reduced Transportation costs",
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      icon: "/images/comman/feature.png",
+    },
+    {
+      title: "Efficient Resource Use",
+      desc: "Optimized routes reduce fuel consumption and time.",
+      icon: "/images/comman/feature.png",
+    },
+    {
+      title: "Reliable Delivery",
+      desc: "Advanced tracking ensures timely delivery and updates.",
+      icon: "/images/comman/feature.png",
+    },
+    {
+      title: "Data-Driven Decisions",
+      desc: "Analytics enable smarter logistics planning.",
+      icon: "/images/comman/feature.png",
+    },
+    {
+      title: "Sustainability",
+      desc: "Eco-friendly practices integrated in operations.",
+      icon: "/images/comman/feature.png",
+    },
+  ];
+  const features = [
+    {
+      img: "/images/comman/slider.png",
+      title: "ABP Series (80)",
+      desc: "60-80 TPH | Stationary | 1000 Kg",
+      url: "/",
+    },
+    {
+      img: "/images/comman/slider.png",
+      title: "ABP Series (100)",
+      desc: "100 TPH | Stationary | 1250 KG",
+      url: "/",
+    },
+    {
+      img: "/images/comman/slider.png",
+      title: "ABP Series (120)",
+      desc: "120 TPH | Stationary | 1500 Kg",
+      url: "/",
+    },
+    {
+      img: "/images/comman/slider.png",
+      title: "ABP Series (140)",
+      desc: "140 TPH | Stationary | 1750 Kg",
+      url: "/",
+    },
+    {
+      img: "/images/comman/slider.png",
+      title: "ABP Series (160)",
+      desc: "160 TPH | Stationary | 2000 Kg",
+      url: "/",
+    },
+    {
+      img: "/images/comman/slider.png",
+      title: "ABP Series (180)",
+      desc: "180 TPH | Stationary | 2250 Kg",
+      url: "/",
+    },
+    {
+      img: "/images/comman/slider.png",
+      title: "ABP Series (200)",
+      desc: "200 TPH | Stationary | 2500 Kg",
+      url: "/",
+    },
+    {
+      img: "/images/comman/slider.png",
+      title: "ABP Series (220)",
+      desc: "220 TPH | Stationary | 2750 Kg",
+      url: "/",
+    },
+    {
+      img: "/images/comman/slider.png",
+      title: "ABP Series (240)",
+      desc: "240 TPH | Stationary | 3000 Kg",
+      url: "/",
+    },
+    // Add more...
+  ];
+  return (
+    <>
+      <ProductSlider {...product} />
+      <Video
+        thumbnail="/images/comman/bg3.jpeg"
+        videoUrl="/video/stock.mp4"
+        isYoutube={false}
+      />
+      <FeatureSlider
+        sectionTitle="Engineered for Excellence"
+        sectionDesc="Explore the cutting-edge features of our industrial machines."
+        features={featureData}
+      />
+      ;
+      <FeatureGrid
+        title="Proven Technology, Trusted Worldwide"
+        subtitle="Lorem Ipsum is simply dummy text of the printing."
+        features={featuresData}
+      />
+      <Productfaq />
+      <ProductSlider2
+        sectionTitle="Smart Design, Seamless Operation"
+        sectionDesc="Lorem Ipsum is simply dummy text of the printing."
+        cards={features}
+      />
+      <FAQSection2 faqData={faqData} bg={"#E7F1E9"} />
+    </>
+  );
+}

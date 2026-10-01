@@ -1,0 +1,67 @@
+import Category_Banner from "../../components/category/category_banner";
+import Category_intro from "../../components/category/category_intro";
+import Expolre_category from "../../components/category/expolore_category";
+import FAQSection1 from "../../components/category/faq1";
+import FAQSection2 from "../../components/category/faq2";
+import FAQ2 from "../../components/category/faq2";
+import ContactForm from "../../components/category/form";
+import Blog from "../../components/homepage/blog";
+import Certified from "../../components/homepage/certified";
+import Clients from "../../components/homepage/clients";
+import Phone from "../../components/homepage/lang";
+import WorldMapComponent from "../../components/homepage/mapview";
+
+export default function Category() {
+  const category_banner_data = {
+    title: "Asphalt Products",ss
+    para: "Lorem Ipsum Dolor is a dummy text",
+    img: "/images/comman/bg3.jpeg",
+  };
+  const category_intro_data = {
+    subtitle: "Overview",
+    title: "Atlas Asphalt Products are Lorem ipsum dolor.",
+    para: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    img: "/images/comman/intro.png",
+  };
+  const faqData = [
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+  ];
+
+  return (
+    <>
+      <Category_Banner data={category_banner_data} />
+      <Category_intro data={category_intro_data} />
+      <Expolre_category />
+      <FAQSection1 />
+      <Certified />
+      <WorldMapComponent />
+      <Blog />
+      <Clients />
+      <ContactForm />
+      <FAQSection2 faqData={faqData} bg={"#E7F1E9"} />
+    </>
+  );
+}

@@ -1,0 +1,1484 @@
+
+> atlas@0.1.0 build
+> node scripts/generate-sitemap.js && next build
+
+🚀 Generating sitemap for construction machinery website...
+🔍 DEBUG MODE: Will show detailed scanning process
+
+📁 Working directory: C:\Users\Shree\Desktop\Atlas\ATLAS
+
+
+🔍 Starting scan of: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages
+   Contents: about.js, api, asphalt-machines, asphalt-plants, bitumen-decanter, bitumen-sprayer, blog, careers, case-studies, cat1.txt, concrete-mixer, concrete-plants, concrete-pump, contact-us.js, cookie-policy, disclaimer, index.js, kerb-cutting-machine, mini-bitumen-sprayer, other-products, privacy-policy, products, refund-policy, road-construction-machinery, shipping-policy, terms-and-conditions, wet-mix-plant, _app.js, _document.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\about.js
+📁 Entering subdirectory: api
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api
+   Contents: brochure-lead.js, hello.js, job-alert.js, sendmail.js, test-sendgrid.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\brochure-lead.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\hello.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\job-alert.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\sendmail.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\test-sendgrid.js
+📁 Entering subdirectory: asphalt-machines
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-machines
+   Contents: asphalt-machines1.jsx, index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-machines\asphalt-machines1.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-machines\index.jsx
+📁 Entering subdirectory: asphalt-plants
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants
+   Contents: asphalt-drum-mix-plant, asphalt-mixing-plant.jsx, counter-flow-asphalt-plant, double-drum-asphalt-plant, index.js, mobile-asphalt-batching-plant, mobile-asphalt-drum-mix-plant, stationary-asphalt-batching-plant
+📁 Entering subdirectory: asphalt-drum-mix-plant
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant
+   Contents: dm200-180-200-tph.jsx, dm25-20-30-tph.jsx, dm35-30-40-tph.jsx, dm45-40-60-tph.jsx, dm50-60-90-tph.jsx, dm60-90-120-tph.jsx, dm65-120-150-tph.jsx, index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm200-180-200-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm25-20-30-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm35-30-40-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm45-40-60-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm50-60-90-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm60-90-120-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm65-120-150-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-mixing-plant.jsx
+📁 Entering subdirectory: counter-flow-asphalt-plant
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant
+   Contents: cf-45-40-60-tph.jsx, cf-50-60-90-tph.jsx, cf-60-90-120-tph.jsx, cf-65-120-150-tph.jsx, index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-45-40-60-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-50-60-90-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-60-90-120-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-65-120-150-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\index.jsx
+📁 Entering subdirectory: double-drum-asphalt-plant
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant
+   Contents: ddm-45-40-60-tph.jsx, ddm-50-60-90-tph.jsx, ddm-60-90-120-tph.jsx, ddm-65-120-150-tph.jsx, index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-45-40-60-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-50-60-90-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-60-90-120-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-65-120-150-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\index.js
+📁 Entering subdirectory: mobile-asphalt-batching-plant
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant
+   Contents: 1000-kg-twin-shaft-mixer-80-tph.jsx, 1500-kg-twin-shaft-mixer-120-tph.jsx, 2000-kg-twin-shaft-mixer-160-tph.jsx, index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\1000-kg-twin-shaft-mixer-80-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\1500-kg-twin-shaft-mixer-120-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\2000-kg-twin-shaft-mixer-160-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\index.jsx
+📁 Entering subdirectory: mobile-asphalt-drum-mix-plant
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant
+   Contents: index.jsx, mdm-45.jsx, mdm-50.jsx, mdm-60.jsx, mdm-65.jsx, mdm25-20-30tph.jsx, mdm35-30-40tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-45.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-50.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-60.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-65.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm25-20-30tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm35-30-40tph.jsx
+📁 Entering subdirectory: stationary-asphalt-batching-plant
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant
+   Contents: 10000kg-twin-shaft-mixer-240-260-tph.jsx, 1000kg-twin-shaft-mixer-60-80-tph.jsx, 1250kg-twin-shaft-mixer-80-100-tph.jsx, 1500kg-twin-shaft-mixer-120-tph.jsx, 1750kg-twin-shaft-mixer-140-tph.jsx, 2000kg-twin-shaft-mixer-160-tph.jsx, 2250kg-twin-shaft-mixer-180-tph.jsx, 2500kg-twin-shaft-mixer-200-tph.jsx, 3000kg-twin-shaft-mixer-240-260-tph.jsx, 5000kg-twin-shaft-mixer-240-260-tph.jsx, index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\10000kg-twin-shaft-mixer-240-260-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1000kg-twin-shaft-mixer-60-80-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1250kg-twin-shaft-mixer-80-100-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1500kg-twin-shaft-mixer-120-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1750kg-twin-shaft-mixer-140-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\2000kg-twin-shaft-mixer-160-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\2250kg-twin-shaft-mixer-180-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\2500kg-twin-shaft-mixer-200-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\3000kg-twin-shaft-mixer-240-260-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\5000kg-twin-shaft-mixer-240-260-tph.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\index.jsx
+📁 Entering subdirectory: bitumen-decanter
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter
+   Contents: acm-11.jsx, acm-4.jsx, acm-7.jsx, acm-9.jsx, drum-decanters.jsx, index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-11.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-4.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-7.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-9.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\drum-decanters.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\index.js
+📁 Entering subdirectory: bitumen-sprayer
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer
+   Contents: ae-10000.js, ae-12000.js, ae-4000.js, ae-6000.js, ae-8000.js, hyd-hopper-electric-model.js, index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-10000.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-12000.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-4000.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-6000.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-8000.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\hyd-hopper-electric-model.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\index.js
+📁 Entering subdirectory: blog
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\blog
+   Contents: index.js, page, [slug].js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\blog\index.js
+📁 Entering subdirectory: page
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\blog\page
+   Contents: [page].js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\blog\page\[page].js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\blog\[slug].js
+📁 Entering subdirectory: careers
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\careers
+   Contents: index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\careers\index.jsx
+📁 Entering subdirectory: case-studies
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\case-studies
+   Contents: index.jsx, [slug].jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\case-studies\index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\case-studies\[slug].jsx
+⏭️  Skipping non-page file: cat1.txt
+📁 Entering subdirectory: concrete-mixer
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer
+   Contents: hydraulic-hopper.jsx, index.js, mechanical-hopper.jsx, without-hopper-diesel.jsx, without-hopper-electric.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\hydraulic-hopper.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\mechanical-hopper.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\without-hopper-diesel.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\without-hopper-electric.jsx
+📁 Entering subdirectory: concrete-plants
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants
+   Contents: index.js, mini-concrete-batching-plant, mobile-concrete-batching-plant-pan-mixer, mobile-concrete-batching-plant-planetary-mixer, mobile-concrete-batching-plant-twin-shaft-mixer, reversible-mixer-concrete-plant, stationary-concrete-batching-plant, stationary-concrete-batching-plant-pan-mixer, stationary-concrete-batching-plant-planetary-mixer
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\index.js
+📁 Entering subdirectory: mini-concrete-batching-plant
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant
+   Contents: index.jsx, rm-1050-diesel.js, rm-1050-electric.js, rm-800-diesel.js, rm-800-electric.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-1050-diesel.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-1050-electric.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-800-diesel.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-800-electric.js
+📁 Entering subdirectory: mobile-concrete-batching-plant-pan-mixer
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-pan-mixer
+   Contents: index.jsx, mobmix-classic-25.js, mobmix-classic-30.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-pan-mixer\index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-pan-mixer\mobmix-classic-25.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-pan-mixer\mobmix-classic-30.js
+📁 Entering subdirectory: mobile-concrete-batching-plant-planetary-mixer
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer
+   Contents: index.jsx, mobmix-plus-30.js, mobmix-plus-45.js, mobmix-plus-60.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\mobmix-plus-30.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\mobmix-plus-45.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\mobmix-plus-60.js
+📁 Entering subdirectory: mobile-concrete-batching-plant-twin-shaft-mixer
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer
+   Contents: index.jsx, mobmix-pro-30.js, mobmix-pro-45.js, mobmix-pro-60.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\mobmix-pro-30.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\mobmix-pro-45.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\mobmix-pro-60.js
+📁 Entering subdirectory: reversible-mixer-concrete-plant
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant
+   Contents: amcb-rm-10.js, amcb-rm-15.js, amcb-rm-20.js, amcb-rm-25.js, index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-10.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-15.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-20.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-25.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\index.jsx
+📁 Entering subdirectory: stationary-concrete-batching-plant
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant
+   Contents: atmix-pro-120.js, atmix-pro-160.js, atmix-pro-180.js, atmix-pro-200.js, atmix-pro-30.js, atmix-pro-45.js, atmix-pro-60.js, atmix-pro-75.js, atmix-pro-90.js, index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-120.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-160.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-180.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-200.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-30.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-45.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-60.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-75.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-90.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\index.jsx
+📁 Entering subdirectory: stationary-concrete-batching-plant-pan-mixer
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-pan-mixer
+   Contents: atmix-classic-30.js, atmix-classic-45.js, index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-pan-mixer\atmix-classic-30.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-pan-mixer\atmix-classic-45.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-pan-mixer\index.jsx
+📁 Entering subdirectory: stationary-concrete-batching-plant-planetary-mixer
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer
+   Contents: atmix-plus-30.js, atmix-plus-45.js, atmix-plus-60.js, index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\atmix-plus-30.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\atmix-plus-45.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\atmix-plus-60.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\index.jsx
+📁 Entering subdirectory: concrete-pump
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-pump
+   Contents: acp-1405-d.jsx, acp-1407-d.jsx, index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-pump\acp-1405-d.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-pump\acp-1407-d.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-pump\index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\contact-us.js
+📁 Entering subdirectory: cookie-policy
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\cookie-policy
+   Contents: index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\cookie-policy\index.js
+📁 Entering subdirectory: disclaimer
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\disclaimer
+   Contents: index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\disclaimer\index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\index.js
+📁 Entering subdirectory: kerb-cutting-machine
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine
+   Contents: index.js, kerb-cutting-machine-1520-rs.jsx, kerb-cutting-machine-heavy-duty.js, kerb-cutting-machine-with-7-4hp.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\kerb-cutting-machine-1520-rs.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\kerb-cutting-machine-heavy-duty.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\kerb-cutting-machine-with-7-4hp.jsx
+📁 Entering subdirectory: mini-bitumen-sprayer
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\mini-bitumen-sprayer
+   Contents: ai-3000.jsx, index.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\mini-bitumen-sprayer\ai-3000.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\mini-bitumen-sprayer\index.jsx
+📁 Entering subdirectory: other-products
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products
+   Contents: groove-cutter, hydraulic-broomer, index.js, kerb-laying-machine, vacuum-dewatering-systems
+📁 Entering subdirectory: groove-cutter
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\groove-cutter
+   Contents: diesel-model.js, electric-model.jsx, index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\groove-cutter\diesel-model.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\groove-cutter\electric-model.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\groove-cutter\index.js
+📁 Entering subdirectory: hydraulic-broomer
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\hydraulic-broomer
+   Contents: hydraulic-broom.jsx, index.js, mechanical-broom.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\hydraulic-broomer\hydraulic-broom.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\hydraulic-broomer\index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\hydraulic-broomer\mechanical-broom.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\index.js
+📁 Entering subdirectory: kerb-laying-machine
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\kerb-laying-machine
+   Contents: index.js, XL-400.js, XL-550.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\kerb-laying-machine\index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\kerb-laying-machine\XL-400.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\kerb-laying-machine\XL-550.js
+📁 Entering subdirectory: vacuum-dewatering-systems
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\vacuum-dewatering-systems
+   Contents: index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\vacuum-dewatering-systems\index.js
+📁 Entering subdirectory: privacy-policy
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\privacy-policy
+   Contents: index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\privacy-policy\index.js
+📁 Entering subdirectory: products
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\products
+   Contents: index.jsx, stationary-abp, stationary-abp.txt
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\products\index.jsx
+📁 Entering subdirectory: stationary-abp
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\products\stationary-abp
+   Contents: abp-80.txt
+⏭️  Skipping non-page file: abp-80.txt
+⏭️  Skipping non-page file: stationary-abp.txt
+📁 Entering subdirectory: refund-policy
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\refund-policy
+   Contents: index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\refund-policy\index.js
+📁 Entering subdirectory: road-construction-machinery
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\road-construction-machinery
+   Contents: index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\road-construction-machinery\index.js
+📁 Entering subdirectory: shipping-policy
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\shipping-policy
+   Contents: index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\shipping-policy\index.js
+📁 Entering subdirectory: terms-and-conditions
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\terms-and-conditions
+   Contents: index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\terms-and-conditions\index.js
+📁 Entering subdirectory: wet-mix-plant
+📂 Reading directory: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant
+   Contents: index.js, wm-100.jsx, wm-160.jsx, wm-200.jsx, wm-250.jsx, wm-300.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\index.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-100.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-160.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-200.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-250.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-300.jsx
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\_app.js
+📄 Found page file: C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\_document.js
+
+📁 Total files found: 151
+📋 Complete file list:
+   1. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\about.js
+   2. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\brochure-lead.js
+   3. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\hello.js
+   4. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\job-alert.js
+   5. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\sendmail.js
+   6. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\test-sendgrid.js
+   7. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-machines\asphalt-machines1.jsx
+   8. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-machines\index.jsx
+   9. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm200-180-200-tph.jsx
+   10. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm25-20-30-tph.jsx
+   11. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm35-30-40-tph.jsx
+   12. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm45-40-60-tph.jsx
+   13. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm50-60-90-tph.jsx
+   14. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm60-90-120-tph.jsx
+   15. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm65-120-150-tph.jsx
+   16. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\index.jsx
+   17. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-mixing-plant.jsx
+   18. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-45-40-60-tph.jsx
+   19. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-50-60-90-tph.jsx
+   20. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-60-90-120-tph.jsx
+   21. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-65-120-150-tph.jsx
+   22. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\index.jsx
+   23. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-45-40-60-tph.jsx
+   24. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-50-60-90-tph.jsx
+   25. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-60-90-120-tph.jsx
+   26. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-65-120-150-tph.jsx
+   27. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\index.jsx
+   28. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\index.js
+   29. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\1000-kg-twin-shaft-mixer-80-tph.jsx
+   30. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\1500-kg-twin-shaft-mixer-120-tph.jsx
+   31. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\2000-kg-twin-shaft-mixer-160-tph.jsx
+   32. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\index.jsx
+   33. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\index.jsx
+   34. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-45.jsx
+   35. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-50.jsx
+   36. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-60.jsx
+   37. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-65.jsx
+   38. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm25-20-30tph.jsx
+   39. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm35-30-40tph.jsx
+   40. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\10000kg-twin-shaft-mixer-240-260-tph.jsx
+   41. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1000kg-twin-shaft-mixer-60-80-tph.jsx
+   42. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1250kg-twin-shaft-mixer-80-100-tph.jsx
+   43. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1500kg-twin-shaft-mixer-120-tph.jsx
+   44. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1750kg-twin-shaft-mixer-140-tph.jsx
+   45. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\2000kg-twin-shaft-mixer-160-tph.jsx
+   46. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\2250kg-twin-shaft-mixer-180-tph.jsx
+   47. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\2500kg-twin-shaft-mixer-200-tph.jsx
+   48. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\3000kg-twin-shaft-mixer-240-260-tph.jsx
+   49. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\5000kg-twin-shaft-mixer-240-260-tph.jsx
+   50. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\index.jsx
+   51. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-11.jsx
+   52. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-4.jsx
+   53. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-7.jsx
+   54. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-9.jsx
+   55. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\drum-decanters.jsx
+   56. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\index.js
+   57. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-10000.js
+   58. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-12000.js
+   59. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-4000.js
+   60. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-6000.js
+   61. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-8000.js
+   62. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\hyd-hopper-electric-model.js
+   63. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\index.js
+   64. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\blog\index.js
+   65. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\blog\page\[page].js
+   66. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\blog\[slug].js
+   67. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\careers\index.jsx
+   68. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\case-studies\index.jsx
+   69. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\case-studies\[slug].jsx
+   70. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\hydraulic-hopper.jsx
+   71. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\index.js
+   72. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\mechanical-hopper.jsx
+   73. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\without-hopper-diesel.jsx
+   74. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\without-hopper-electric.jsx
+   75. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\index.js
+   76. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\index.jsx
+   77. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-1050-diesel.js
+   78. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-1050-electric.js
+   79. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-800-diesel.js
+   80. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-800-electric.js
+   81. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-pan-mixer\index.jsx
+   82. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-pan-mixer\mobmix-classic-25.js
+   83. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-pan-mixer\mobmix-classic-30.js
+   84. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\index.jsx
+   85. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\mobmix-plus-30.js
+   86. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\mobmix-plus-45.js
+   87. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\mobmix-plus-60.js
+   88. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\index.jsx
+   89. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\mobmix-pro-30.js
+   90. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\mobmix-pro-45.js
+   91. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\mobmix-pro-60.js
+   92. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-10.js
+   93. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-15.js
+   94. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-20.js
+   95. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-25.js
+   96. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\index.jsx
+   97. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-120.js
+   98. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-160.js
+   99. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-180.js
+   100. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-200.js
+   101. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-30.js
+   102. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-45.js
+   103. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-60.js
+   104. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-75.js
+   105. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-90.js
+   106. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\index.jsx
+   107. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-pan-mixer\atmix-classic-30.js
+   108. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-pan-mixer\atmix-classic-45.js
+   109. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-pan-mixer\index.jsx
+   110. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\atmix-plus-30.js
+   111. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\atmix-plus-45.js
+   112. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\atmix-plus-60.js
+   113. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\index.jsx
+   114. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-pump\acp-1405-d.jsx
+   115. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-pump\acp-1407-d.jsx
+   116. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-pump\index.js
+   117. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\contact-us.js
+   118. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\cookie-policy\index.js
+   119. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\disclaimer\index.js
+   120. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\index.js
+   121. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\index.js
+   122. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\kerb-cutting-machine-1520-rs.jsx
+   123. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\kerb-cutting-machine-heavy-duty.js
+   124. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\kerb-cutting-machine-with-7-4hp.jsx
+   125. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\mini-bitumen-sprayer\ai-3000.jsx
+   126. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\mini-bitumen-sprayer\index.jsx
+   127. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\groove-cutter\diesel-model.js
+   128. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\groove-cutter\electric-model.jsx
+   129. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\groove-cutter\index.js
+   130. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\hydraulic-broomer\hydraulic-broom.jsx
+   131. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\hydraulic-broomer\index.js
+   132. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\hydraulic-broomer\mechanical-broom.jsx
+   133. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\index.js
+   134. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\kerb-laying-machine\index.js
+   135. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\kerb-laying-machine\XL-400.js
+   136. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\kerb-laying-machine\XL-550.js
+   137. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\vacuum-dewatering-systems\index.js
+   138. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\privacy-policy\index.js
+   139. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\products\index.jsx
+   140. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\refund-policy\index.js
+   141. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\road-construction-machinery\index.js
+   142. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\shipping-policy\index.js
+   143. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\terms-and-conditions\index.js
+   144. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\index.js
+   145. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-100.jsx
+   146. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-160.jsx
+   147. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-200.jsx
+   148. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-250.jsx
+   149. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-300.jsx
+   150. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\_app.js
+   151. C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\_document.js
+
+🔄 Converting files to routes:
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\about.js → /about
+   ✅ Keeping: /about
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\brochure-lead.js → /api/brochure-lead
+   ❌ Excluding: /api/brochure-lead (in excluded list)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\hello.js → /api/hello
+   ❌ Excluding: /api/hello (in excluded list)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\job-alert.js → /api/job-alert
+   ❌ Excluding: /api/job-alert (in excluded list)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\sendmail.js → /api/sendmail
+   ❌ Excluding: /api/sendmail (in excluded list)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\api\test-sendgrid.js → /api/test-sendgrid
+   ❌ Excluding: /api/test-sendgrid (in excluded list)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-machines\asphalt-machines1.jsx → /asphalt-machines/asphalt-machines1
+   ✅ Keeping: /asphalt-machines/asphalt-machines1
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-machines\index.jsx → /asphalt-machines
+   ✅ Keeping: /asphalt-machines
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm200-180-200-tph.jsx → /asphalt-plants/asphalt-drum-mix-plant/dm200-180-200-tph
+   ✅ Keeping: /asphalt-plants/asphalt-drum-mix-plant/dm200-180-200-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm25-20-30-tph.jsx → /asphalt-plants/asphalt-drum-mix-plant/dm25-20-30-tph
+   ✅ Keeping: /asphalt-plants/asphalt-drum-mix-plant/dm25-20-30-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm35-30-40-tph.jsx → /asphalt-plants/asphalt-drum-mix-plant/dm35-30-40-tph
+   ✅ Keeping: /asphalt-plants/asphalt-drum-mix-plant/dm35-30-40-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm45-40-60-tph.jsx → /asphalt-plants/asphalt-drum-mix-plant/dm45-40-60-tph
+   ✅ Keeping: /asphalt-plants/asphalt-drum-mix-plant/dm45-40-60-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm50-60-90-tph.jsx → /asphalt-plants/asphalt-drum-mix-plant/dm50-60-90-tph
+   ✅ Keeping: /asphalt-plants/asphalt-drum-mix-plant/dm50-60-90-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm60-90-120-tph.jsx → /asphalt-plants/asphalt-drum-mix-plant/dm60-90-120-tph
+   ✅ Keeping: /asphalt-plants/asphalt-drum-mix-plant/dm60-90-120-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\dm65-120-150-tph.jsx → /asphalt-plants/asphalt-drum-mix-plant/dm65-120-150-tph
+   ✅ Keeping: /asphalt-plants/asphalt-drum-mix-plant/dm65-120-150-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-drum-mix-plant\index.jsx → /asphalt-plants/asphalt-drum-mix-plant
+   ✅ Keeping: /asphalt-plants/asphalt-drum-mix-plant
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\asphalt-mixing-plant.jsx → /asphalt-plants/asphalt-mixing-plant
+   ✅ Keeping: /asphalt-plants/asphalt-mixing-plant
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-45-40-60-tph.jsx → /asphalt-plants/counter-flow-asphalt-plant/cf-45-40-60-tph
+   ✅ Keeping: /asphalt-plants/counter-flow-asphalt-plant/cf-45-40-60-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-50-60-90-tph.jsx → /asphalt-plants/counter-flow-asphalt-plant/cf-50-60-90-tph
+   ✅ Keeping: /asphalt-plants/counter-flow-asphalt-plant/cf-50-60-90-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-60-90-120-tph.jsx → /asphalt-plants/counter-flow-asphalt-plant/cf-60-90-120-tph
+   ✅ Keeping: /asphalt-plants/counter-flow-asphalt-plant/cf-60-90-120-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\cf-65-120-150-tph.jsx → /asphalt-plants/counter-flow-asphalt-plant/cf-65-120-150-tph
+   ✅ Keeping: /asphalt-plants/counter-flow-asphalt-plant/cf-65-120-150-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\counter-flow-asphalt-plant\index.jsx → /asphalt-plants/counter-flow-asphalt-plant
+   ✅ Keeping: /asphalt-plants/counter-flow-asphalt-plant
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-45-40-60-tph.jsx → /asphalt-plants/double-drum-asphalt-plant/ddm-45-40-60-tph
+   ✅ Keeping: /asphalt-plants/double-drum-asphalt-plant/ddm-45-40-60-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-50-60-90-tph.jsx → /asphalt-plants/double-drum-asphalt-plant/ddm-50-60-90-tph
+   ✅ Keeping: /asphalt-plants/double-drum-asphalt-plant/ddm-50-60-90-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-60-90-120-tph.jsx → /asphalt-plants/double-drum-asphalt-plant/ddm-60-90-120-tph
+   ✅ Keeping: /asphalt-plants/double-drum-asphalt-plant/ddm-60-90-120-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\ddm-65-120-150-tph.jsx → /asphalt-plants/double-drum-asphalt-plant/ddm-65-120-150-tph
+   ✅ Keeping: /asphalt-plants/double-drum-asphalt-plant/ddm-65-120-150-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\double-drum-asphalt-plant\index.jsx → /asphalt-plants/double-drum-asphalt-plant
+   ✅ Keeping: /asphalt-plants/double-drum-asphalt-plant
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\index.js → /asphalt-plants
+   ✅ Keeping: /asphalt-plants
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\1000-kg-twin-shaft-mixer-80-tph.jsx → /asphalt-plants/mobile-asphalt-batching-plant/1000-kg-twin-shaft-mixer-80-tph
+   ✅ Keeping: /asphalt-plants/mobile-asphalt-batching-plant/1000-kg-twin-shaft-mixer-80-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\1500-kg-twin-shaft-mixer-120-tph.jsx → /asphalt-plants/mobile-asphalt-batching-plant/1500-kg-twin-shaft-mixer-120-tph
+   ❌ Skipping: /asphalt-plants/mobile-asphalt-batching-plant/1500-kg-twin-shaft-mixer-120-tph (special file)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\2000-kg-twin-shaft-mixer-160-tph.jsx → /asphalt-plants/mobile-asphalt-batching-plant/2000-kg-twin-shaft-mixer-160-tph
+   ✅ Keeping: /asphalt-plants/mobile-asphalt-batching-plant/2000-kg-twin-shaft-mixer-160-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-batching-plant\index.jsx → /asphalt-plants/mobile-asphalt-batching-plant
+   ✅ Keeping: /asphalt-plants/mobile-asphalt-batching-plant
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\index.jsx → /asphalt-plants/mobile-asphalt-drum-mix-plant
+   ✅ Keeping: /asphalt-plants/mobile-asphalt-drum-mix-plant
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-45.jsx → /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-45
+   ✅ Keeping: /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-45
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-50.jsx → /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-50
+   ✅ Keeping: /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-50
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-60.jsx → /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-60
+   ✅ Keeping: /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-60
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm-65.jsx → /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-65
+   ✅ Keeping: /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-65
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm25-20-30tph.jsx → /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm25-20-30tph
+   ✅ Keeping: /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm25-20-30tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\mobile-asphalt-drum-mix-plant\mdm35-30-40tph.jsx → /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm35-30-40tph
+   ✅ Keeping: /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm35-30-40tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\10000kg-twin-shaft-mixer-240-260-tph.jsx → /asphalt-plants/stationary-asphalt-batching-plant/10000kg-twin-shaft-mixer-240-260-tph
+   ✅ Keeping: /asphalt-plants/stationary-asphalt-batching-plant/10000kg-twin-shaft-mixer-240-260-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1000kg-twin-shaft-mixer-60-80-tph.jsx → /asphalt-plants/stationary-asphalt-batching-plant/1000kg-twin-shaft-mixer-60-80-tph
+   ✅ Keeping: /asphalt-plants/stationary-asphalt-batching-plant/1000kg-twin-shaft-mixer-60-80-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1250kg-twin-shaft-mixer-80-100-tph.jsx → /asphalt-plants/stationary-asphalt-batching-plant/1250kg-twin-shaft-mixer-80-100-tph
+   ✅ Keeping: /asphalt-plants/stationary-asphalt-batching-plant/1250kg-twin-shaft-mixer-80-100-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1500kg-twin-shaft-mixer-120-tph.jsx → /asphalt-plants/stationary-asphalt-batching-plant/1500kg-twin-shaft-mixer-120-tph
+   ❌ Skipping: /asphalt-plants/stationary-asphalt-batching-plant/1500kg-twin-shaft-mixer-120-tph (special file)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\1750kg-twin-shaft-mixer-140-tph.jsx → /asphalt-plants/stationary-asphalt-batching-plant/1750kg-twin-shaft-mixer-140-tph
+   ✅ Keeping: /asphalt-plants/stationary-asphalt-batching-plant/1750kg-twin-shaft-mixer-140-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\2000kg-twin-shaft-mixer-160-tph.jsx → /asphalt-plants/stationary-asphalt-batching-plant/2000kg-twin-shaft-mixer-160-tph
+   ✅ Keeping: /asphalt-plants/stationary-asphalt-batching-plant/2000kg-twin-shaft-mixer-160-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\2250kg-twin-shaft-mixer-180-tph.jsx → /asphalt-plants/stationary-asphalt-batching-plant/2250kg-twin-shaft-mixer-180-tph
+   ✅ Keeping: /asphalt-plants/stationary-asphalt-batching-plant/2250kg-twin-shaft-mixer-180-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\2500kg-twin-shaft-mixer-200-tph.jsx → /asphalt-plants/stationary-asphalt-batching-plant/2500kg-twin-shaft-mixer-200-tph
+   ❌ Skipping: /asphalt-plants/stationary-asphalt-batching-plant/2500kg-twin-shaft-mixer-200-tph (special file)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\3000kg-twin-shaft-mixer-240-260-tph.jsx → /asphalt-plants/stationary-asphalt-batching-plant/3000kg-twin-shaft-mixer-240-260-tph
+   ✅ Keeping: /asphalt-plants/stationary-asphalt-batching-plant/3000kg-twin-shaft-mixer-240-260-tph
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\5000kg-twin-shaft-mixer-240-260-tph.jsx → /asphalt-plants/stationary-asphalt-batching-plant/5000kg-twin-shaft-mixer-240-260-tph
+   ❌ Skipping: /asphalt-plants/stationary-asphalt-batching-plant/5000kg-twin-shaft-mixer-240-260-tph (special file)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\asphalt-plants\stationary-asphalt-batching-plant\index.jsx → /asphalt-plants/stationary-asphalt-batching-plant
+   ✅ Keeping: /asphalt-plants/stationary-asphalt-batching-plant
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-11.jsx → /bitumen-decanter/acm-11
+   ✅ Keeping: /bitumen-decanter/acm-11
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-4.jsx → /bitumen-decanter/acm-4
+   ✅ Keeping: /bitumen-decanter/acm-4
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-7.jsx → /bitumen-decanter/acm-7
+   ✅ Keeping: /bitumen-decanter/acm-7
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\acm-9.jsx → /bitumen-decanter/acm-9
+   ✅ Keeping: /bitumen-decanter/acm-9
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\drum-decanters.jsx → /bitumen-decanter/drum-decanters
+   ✅ Keeping: /bitumen-decanter/drum-decanters
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-decanter\index.js → /bitumen-decanter
+   ✅ Keeping: /bitumen-decanter
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-10000.js → /bitumen-sprayer/ae-10000
+   ✅ Keeping: /bitumen-sprayer/ae-10000
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-12000.js → /bitumen-sprayer/ae-12000
+   ✅ Keeping: /bitumen-sprayer/ae-12000
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-4000.js → /bitumen-sprayer/ae-4000
+   ✅ Keeping: /bitumen-sprayer/ae-4000
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-6000.js → /bitumen-sprayer/ae-6000
+   ✅ Keeping: /bitumen-sprayer/ae-6000
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\ae-8000.js → /bitumen-sprayer/ae-8000
+   ✅ Keeping: /bitumen-sprayer/ae-8000
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\hyd-hopper-electric-model.js → /bitumen-sprayer/hyd-hopper-electric-model
+   ✅ Keeping: /bitumen-sprayer/hyd-hopper-electric-model
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\bitumen-sprayer\index.js → /bitumen-sprayer
+   ✅ Keeping: /bitumen-sprayer
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\blog\index.js → /blog
+   ✅ Keeping: /blog
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\blog\page\[page].js → /blog/page/[page]
+   ❌ Skipping: /blog/page/[page] (special file)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\blog\[slug].js → /blog/[slug]
+   ❌ Skipping: /blog/[slug] (special file)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\careers\index.jsx → /careers
+   ✅ Keeping: /careers
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\case-studies\index.jsx → /case-studies
+   ✅ Keeping: /case-studies
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\case-studies\[slug].jsx → /case-studies/[slug]
+   ❌ Skipping: /case-studies/[slug] (special file)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\hydraulic-hopper.jsx → /concrete-mixer/hydraulic-hopper
+   ✅ Keeping: /concrete-mixer/hydraulic-hopper
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\index.js → /concrete-mixer
+   ✅ Keeping: /concrete-mixer
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\mechanical-hopper.jsx → /concrete-mixer/mechanical-hopper
+   ✅ Keeping: /concrete-mixer/mechanical-hopper
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\without-hopper-diesel.jsx → /concrete-mixer/without-hopper-diesel
+   ✅ Keeping: /concrete-mixer/without-hopper-diesel
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-mixer\without-hopper-electric.jsx → /concrete-mixer/without-hopper-electric
+   ✅ Keeping: /concrete-mixer/without-hopper-electric
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\index.js → /concrete-plants
+   ✅ Keeping: /concrete-plants
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\index.jsx → /concrete-plants/mini-concrete-batching-plant
+   ✅ Keeping: /concrete-plants/mini-concrete-batching-plant
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-1050-diesel.js → /concrete-plants/mini-concrete-batching-plant/rm-1050-diesel
+   ✅ Keeping: /concrete-plants/mini-concrete-batching-plant/rm-1050-diesel
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-1050-electric.js → /concrete-plants/mini-concrete-batching-plant/rm-1050-electric
+   ✅ Keeping: /concrete-plants/mini-concrete-batching-plant/rm-1050-electric
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-800-diesel.js → /concrete-plants/mini-concrete-batching-plant/rm-800-diesel
+   ✅ Keeping: /concrete-plants/mini-concrete-batching-plant/rm-800-diesel
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mini-concrete-batching-plant\rm-800-electric.js → /concrete-plants/mini-concrete-batching-plant/rm-800-electric
+   ✅ Keeping: /concrete-plants/mini-concrete-batching-plant/rm-800-electric
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-pan-mixer\index.jsx → /concrete-plants/mobile-concrete-batching-plant-pan-mixer
+   ✅ Keeping: /concrete-plants/mobile-concrete-batching-plant-pan-mixer
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-pan-mixer\mobmix-classic-25.js → /concrete-plants/mobile-concrete-batching-plant-pan-mixer/mobmix-classic-25
+   ✅ Keeping: /concrete-plants/mobile-concrete-batching-plant-pan-mixer/mobmix-classic-25
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-pan-mixer\mobmix-classic-30.js → /concrete-plants/mobile-concrete-batching-plant-pan-mixer/mobmix-classic-30
+   ✅ Keeping: /concrete-plants/mobile-concrete-batching-plant-pan-mixer/mobmix-classic-30
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\index.jsx → /concrete-plants/mobile-concrete-batching-plant-planetary-mixer
+   ✅ Keeping: /concrete-plants/mobile-concrete-batching-plant-planetary-mixer
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\mobmix-plus-30.js → /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-30
+   ✅ Keeping: /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-30
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\mobmix-plus-45.js → /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-45
+   ✅ Keeping: /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-45
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-planetary-mixer\mobmix-plus-60.js → /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-60
+   ✅ Keeping: /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-60
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\index.jsx → /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer
+   ✅ Keeping: /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\mobmix-pro-30.js → /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-30
+   ✅ Keeping: /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-30
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\mobmix-pro-45.js → /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-45
+   ✅ Keeping: /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-45
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\mobile-concrete-batching-plant-twin-shaft-mixer\mobmix-pro-60.js → /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-60
+   ✅ Keeping: /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-60
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-10.js → /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-10
+   ✅ Keeping: /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-10
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-15.js → /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-15
+   ✅ Keeping: /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-15
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-20.js → /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-20
+   ✅ Keeping: /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-20
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\amcb-rm-25.js → /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-25
+   ✅ Keeping: /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-25
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\reversible-mixer-concrete-plant\index.jsx → /concrete-plants/reversible-mixer-concrete-plant
+   ✅ Keeping: /concrete-plants/reversible-mixer-concrete-plant
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-120.js → /concrete-plants/stationary-concrete-batching-plant/atmix-pro-120
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant/atmix-pro-120
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-160.js → /concrete-plants/stationary-concrete-batching-plant/atmix-pro-160
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant/atmix-pro-160
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-180.js → /concrete-plants/stationary-concrete-batching-plant/atmix-pro-180
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant/atmix-pro-180
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-200.js → /concrete-plants/stationary-concrete-batching-plant/atmix-pro-200
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant/atmix-pro-200
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-30.js → /concrete-plants/stationary-concrete-batching-plant/atmix-pro-30
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant/atmix-pro-30
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-45.js → /concrete-plants/stationary-concrete-batching-plant/atmix-pro-45
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant/atmix-pro-45
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-60.js → /concrete-plants/stationary-concrete-batching-plant/atmix-pro-60
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant/atmix-pro-60
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-75.js → /concrete-plants/stationary-concrete-batching-plant/atmix-pro-75
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant/atmix-pro-75
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\atmix-pro-90.js → /concrete-plants/stationary-concrete-batching-plant/atmix-pro-90
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant/atmix-pro-90
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant\index.jsx → /concrete-plants/stationary-concrete-batching-plant
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-pan-mixer\atmix-classic-30.js → /concrete-plants/stationary-concrete-batching-plant-pan-mixer/atmix-classic-30
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant-pan-mixer/atmix-classic-30
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-pan-mixer\atmix-classic-45.js → /concrete-plants/stationary-concrete-batching-plant-pan-mixer/atmix-classic-45
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant-pan-mixer/atmix-classic-45
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-pan-mixer\index.jsx → /concrete-plants/stationary-concrete-batching-plant-pan-mixer
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant-pan-mixer
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\atmix-plus-30.js → /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-30
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-30
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\atmix-plus-45.js → /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-45
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-45
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\atmix-plus-60.js → /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-60
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-60
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-plants\stationary-concrete-batching-plant-planetary-mixer\index.jsx → /concrete-plants/stationary-concrete-batching-plant-planetary-mixer
+   ✅ Keeping: /concrete-plants/stationary-concrete-batching-plant-planetary-mixer
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-pump\acp-1405-d.jsx → /concrete-pump/acp-1405-d
+   ✅ Keeping: /concrete-pump/acp-1405-d
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-pump\acp-1407-d.jsx → /concrete-pump/acp-1407-d
+   ✅ Keeping: /concrete-pump/acp-1407-d
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\concrete-pump\index.js → /concrete-pump
+   ✅ Keeping: /concrete-pump
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\contact-us.js → /contact-us
+   ✅ Keeping: /contact-us
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\cookie-policy\index.js → /cookie-policy
+   ✅ Keeping: /cookie-policy
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\disclaimer\index.js → /disclaimer
+   ✅ Keeping: /disclaimer
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\index.js → /
+   ✅ Keeping: /
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\index.js → /kerb-cutting-machine
+   ✅ Keeping: /kerb-cutting-machine
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\kerb-cutting-machine-1520-rs.jsx → /kerb-cutting-machine/kerb-cutting-machine-1520-rs
+   ✅ Keeping: /kerb-cutting-machine/kerb-cutting-machine-1520-rs
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\kerb-cutting-machine-heavy-duty.js → /kerb-cutting-machine/kerb-cutting-machine-heavy-duty
+   ✅ Keeping: /kerb-cutting-machine/kerb-cutting-machine-heavy-duty
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\kerb-cutting-machine\kerb-cutting-machine-with-7-4hp.jsx → /kerb-cutting-machine/kerb-cutting-machine-with-7-4hp
+   ✅ Keeping: /kerb-cutting-machine/kerb-cutting-machine-with-7-4hp
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\mini-bitumen-sprayer\ai-3000.jsx → /mini-bitumen-sprayer/ai-3000
+   ✅ Keeping: /mini-bitumen-sprayer/ai-3000
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\mini-bitumen-sprayer\index.jsx → /mini-bitumen-sprayer
+   ✅ Keeping: /mini-bitumen-sprayer
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\groove-cutter\diesel-model.js → /other-products/groove-cutter/diesel-model
+   ✅ Keeping: /other-products/groove-cutter/diesel-model
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\groove-cutter\electric-model.jsx → /other-products/groove-cutter/electric-model
+   ✅ Keeping: /other-products/groove-cutter/electric-model
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\groove-cutter\index.js → /other-products/groove-cutter
+   ✅ Keeping: /other-products/groove-cutter
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\hydraulic-broomer\hydraulic-broom.jsx → /other-products/hydraulic-broomer/hydraulic-broom
+   ✅ Keeping: /other-products/hydraulic-broomer/hydraulic-broom
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\hydraulic-broomer\index.js → /other-products/hydraulic-broomer
+   ✅ Keeping: /other-products/hydraulic-broomer
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\hydraulic-broomer\mechanical-broom.jsx → /other-products/hydraulic-broomer/mechanical-broom
+   ✅ Keeping: /other-products/hydraulic-broomer/mechanical-broom
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\index.js → /other-products
+   ✅ Keeping: /other-products
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\kerb-laying-machine\index.js → /other-products/kerb-laying-machine
+   ✅ Keeping: /other-products/kerb-laying-machine
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\kerb-laying-machine\XL-400.js → /other-products/kerb-laying-machine/XL-400
+   ✅ Keeping: /other-products/kerb-laying-machine/XL-400
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\kerb-laying-machine\XL-550.js → /other-products/kerb-laying-machine/XL-550
+   ✅ Keeping: /other-products/kerb-laying-machine/XL-550
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\other-products\vacuum-dewatering-systems\index.js → /other-products/vacuum-dewatering-systems
+   ✅ Keeping: /other-products/vacuum-dewatering-systems
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\privacy-policy\index.js → /privacy-policy
+   ✅ Keeping: /privacy-policy
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\products\index.jsx → /products
+   ✅ Keeping: /products
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\refund-policy\index.js → /refund-policy
+   ✅ Keeping: /refund-policy
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\road-construction-machinery\index.js → /road-construction-machinery
+   ✅ Keeping: /road-construction-machinery
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\shipping-policy\index.js → /shipping-policy
+   ✅ Keeping: /shipping-policy
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\terms-and-conditions\index.js → /terms-and-conditions
+   ✅ Keeping: /terms-and-conditions
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\index.js → /wet-mix-plant
+   ✅ Keeping: /wet-mix-plant
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-100.jsx → /wet-mix-plant/wm-100
+   ✅ Keeping: /wet-mix-plant/wm-100
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-160.jsx → /wet-mix-plant/wm-160
+   ✅ Keeping: /wet-mix-plant/wm-160
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-200.jsx → /wet-mix-plant/wm-200
+   ✅ Keeping: /wet-mix-plant/wm-200
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-250.jsx → /wet-mix-plant/wm-250
+   ✅ Keeping: /wet-mix-plant/wm-250
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\wet-mix-plant\wm-300.jsx → /wet-mix-plant/wm-300
+   ✅ Keeping: /wet-mix-plant/wm-300
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\_app.js → /_app
+   ❌ Skipping: /_app (special file)
+   📄 C:\Users\Shree\Desktop\Atlas\ATLAS\src\pages\_document.js → /_document
+   ❌ Skipping: /_document (special file)
+
+✅ Final routes after filtering:
+   1. /about
+   2. /asphalt-machines/asphalt-machines1
+   3. /asphalt-machines
+   4. /asphalt-plants/asphalt-drum-mix-plant/dm200-180-200-tph
+   5. /asphalt-plants/asphalt-drum-mix-plant/dm25-20-30-tph
+   6. /asphalt-plants/asphalt-drum-mix-plant/dm35-30-40-tph
+   7. /asphalt-plants/asphalt-drum-mix-plant/dm45-40-60-tph
+   8. /asphalt-plants/asphalt-drum-mix-plant/dm50-60-90-tph
+   9. /asphalt-plants/asphalt-drum-mix-plant/dm60-90-120-tph
+   10. /asphalt-plants/asphalt-drum-mix-plant/dm65-120-150-tph
+   11. /asphalt-plants/asphalt-drum-mix-plant
+   12. /asphalt-plants/asphalt-mixing-plant
+   13. /asphalt-plants/counter-flow-asphalt-plant/cf-45-40-60-tph
+   14. /asphalt-plants/counter-flow-asphalt-plant/cf-50-60-90-tph
+   15. /asphalt-plants/counter-flow-asphalt-plant/cf-60-90-120-tph
+   16. /asphalt-plants/counter-flow-asphalt-plant/cf-65-120-150-tph
+   17. /asphalt-plants/counter-flow-asphalt-plant
+   18. /asphalt-plants/double-drum-asphalt-plant/ddm-45-40-60-tph
+   19. /asphalt-plants/double-drum-asphalt-plant/ddm-50-60-90-tph
+   20. /asphalt-plants/double-drum-asphalt-plant/ddm-60-90-120-tph
+   21. /asphalt-plants/double-drum-asphalt-plant/ddm-65-120-150-tph
+   22. /asphalt-plants/double-drum-asphalt-plant
+   23. /asphalt-plants
+   24. /asphalt-plants/mobile-asphalt-batching-plant/1000-kg-twin-shaft-mixer-80-tph
+   25. /asphalt-plants/mobile-asphalt-batching-plant/2000-kg-twin-shaft-mixer-160-tph
+   26. /asphalt-plants/mobile-asphalt-batching-plant
+   27. /asphalt-plants/mobile-asphalt-drum-mix-plant
+   28. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-45
+   29. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-50
+   30. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-60
+   31. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-65
+   32. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm25-20-30tph
+   33. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm35-30-40tph
+   34. /asphalt-plants/stationary-asphalt-batching-plant/10000kg-twin-shaft-mixer-240-260-tph
+   35. /asphalt-plants/stationary-asphalt-batching-plant/1000kg-twin-shaft-mixer-60-80-tph
+   36. /asphalt-plants/stationary-asphalt-batching-plant/1250kg-twin-shaft-mixer-80-100-tph
+   37. /asphalt-plants/stationary-asphalt-batching-plant/1750kg-twin-shaft-mixer-140-tph
+   38. /asphalt-plants/stationary-asphalt-batching-plant/2000kg-twin-shaft-mixer-160-tph
+   39. /asphalt-plants/stationary-asphalt-batching-plant/2250kg-twin-shaft-mixer-180-tph
+   40. /asphalt-plants/stationary-asphalt-batching-plant/3000kg-twin-shaft-mixer-240-260-tph
+   41. /asphalt-plants/stationary-asphalt-batching-plant
+   42. /bitumen-decanter/acm-11
+   43. /bitumen-decanter/acm-4
+   44. /bitumen-decanter/acm-7
+   45. /bitumen-decanter/acm-9
+   46. /bitumen-decanter/drum-decanters
+   47. /bitumen-decanter
+   48. /bitumen-sprayer/ae-10000
+   49. /bitumen-sprayer/ae-12000
+   50. /bitumen-sprayer/ae-4000
+   51. /bitumen-sprayer/ae-6000
+   52. /bitumen-sprayer/ae-8000
+   53. /bitumen-sprayer/hyd-hopper-electric-model
+   54. /bitumen-sprayer
+   55. /blog
+   56. /careers
+   57. /case-studies
+   58. /concrete-mixer/hydraulic-hopper
+   59. /concrete-mixer
+   60. /concrete-mixer/mechanical-hopper
+   61. /concrete-mixer/without-hopper-diesel
+   62. /concrete-mixer/without-hopper-electric
+   63. /concrete-plants
+   64. /concrete-plants/mini-concrete-batching-plant
+   65. /concrete-plants/mini-concrete-batching-plant/rm-1050-diesel
+   66. /concrete-plants/mini-concrete-batching-plant/rm-1050-electric
+   67. /concrete-plants/mini-concrete-batching-plant/rm-800-diesel
+   68. /concrete-plants/mini-concrete-batching-plant/rm-800-electric
+   69. /concrete-plants/mobile-concrete-batching-plant-pan-mixer
+   70. /concrete-plants/mobile-concrete-batching-plant-pan-mixer/mobmix-classic-25
+   71. /concrete-plants/mobile-concrete-batching-plant-pan-mixer/mobmix-classic-30
+   72. /concrete-plants/mobile-concrete-batching-plant-planetary-mixer
+   73. /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-30
+   74. /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-45
+   75. /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-60
+   76. /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer
+   77. /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-30
+   78. /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-45
+   79. /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-60
+   80. /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-10
+   81. /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-15
+   82. /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-20
+   83. /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-25
+   84. /concrete-plants/reversible-mixer-concrete-plant
+   85. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-120
+   86. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-160
+   87. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-180
+   88. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-200
+   89. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-30
+   90. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-45
+   91. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-60
+   92. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-75
+   93. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-90
+   94. /concrete-plants/stationary-concrete-batching-plant
+   95. /concrete-plants/stationary-concrete-batching-plant-pan-mixer/atmix-classic-30
+   96. /concrete-plants/stationary-concrete-batching-plant-pan-mixer/atmix-classic-45
+   97. /concrete-plants/stationary-concrete-batching-plant-pan-mixer
+   98. /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-30
+   99. /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-45
+   100. /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-60
+   101. /concrete-plants/stationary-concrete-batching-plant-planetary-mixer
+   102. /concrete-pump/acp-1405-d
+   103. /concrete-pump/acp-1407-d
+   104. /concrete-pump
+   105. /contact-us
+   106. /cookie-policy
+   107. /disclaimer
+   108. /
+   109. /kerb-cutting-machine
+   110. /kerb-cutting-machine/kerb-cutting-machine-1520-rs
+   111. /kerb-cutting-machine/kerb-cutting-machine-heavy-duty
+   112. /kerb-cutting-machine/kerb-cutting-machine-with-7-4hp
+   113. /mini-bitumen-sprayer/ai-3000
+   114. /mini-bitumen-sprayer
+   115. /other-products/groove-cutter/diesel-model
+   116. /other-products/groove-cutter/electric-model
+   117. /other-products/groove-cutter
+   118. /other-products/hydraulic-broomer/hydraulic-broom
+   119. /other-products/hydraulic-broomer
+   120. /other-products/hydraulic-broomer/mechanical-broom
+   121. /other-products
+   122. /other-products/kerb-laying-machine
+   123. /other-products/kerb-laying-machine/XL-400
+   124. /other-products/kerb-laying-machine/XL-550
+   125. /other-products/vacuum-dewatering-systems
+   126. /privacy-policy
+   127. /products
+   128. /refund-policy
+   129. /road-construction-machinery
+   130. /shipping-policy
+   131. /terms-and-conditions
+   132. /wet-mix-plant
+   133. /wet-mix-plant/wm-100
+   134. /wet-mix-plant/wm-160
+   135. /wet-mix-plant/wm-200
+   136. /wet-mix-plant/wm-250
+   137. /wet-mix-plant/wm-300
+
+📝 Fetching blog posts...
+   Reading blogs index file: C:\Users\Shree\Desktop\Atlas\ATLAS\data\blogs\index.js
+   Found 147 total imports
+   Found 23 active posts in allPosts array
+   ✅ Blog: /blog/160-tph-asphalt-batch-mix-plant-gandhinagar-case-study
+      Title: 160 TPH Asphalt Batch Mix Plant: Atlas Fast-Track Delivery Case Study from Gandhinagar
+      Date: 2026-06-18
+   ✅ Blog: /blog/asphalt-plant-fuel-consumption-india-2026
+      Title: Asphalt Plant Fuel Consumption 2026: Real Data for Indian Contractors
+      Date: 2026-05-20
+   ✅ Blog: /blog/why-retrofitting-beats-the-asphalt-plant-price-2026-roi-guide
+      Title: Why Precision Retrofitting is 70% Cheaper than New Plant Depreciation
+      Date: 2026-05-24
+   ✅ Blog: /blog/is-poor-bitumen-quality-ruining-your-mix-asphalt-batch-mix-plant-solutions
+      Title: Is Poor Bitumen Quality Ruining Your Mix? Why an Asphalt Batch Mix Plant is the Key to 100% Pavement Integrity
+      Date: 2026-05-26
+   ✅ Blog: /blog/rmc-plant-guide-2026-concrete-batching-plant-india
+      Title: RMC Plant Setup Guide: Concrete Batching Plant Cost, Configuration and ROI in India 2026
+      Date: 2026-04-25
+   ✅ Blog: /blog/asphalt-plant-philippines-atlas-local-support-engineering
+      Title: Asphalt Plant Philippines: How Atlas Delivered and Commissioned a 160 TPH Plant for Road Works
+      Date: 2026-04-22
+   ✅ Blog: /blog/counterflow-asphalt-plants-profitable-path-2026
+      Title: Counterflow Asphalt Plant Profitability in 2026: The Numbers Contractors Need to See
+      Date: 2026-04-20
+   ✅ Blog: /blog/rise-of-rap-recycled-asphalt-pavement-road-construction-2026
+      Title: The Rise of RAP (Recycled Asphalt Pavement): Turning Waste into Profit in 2026
+      Date: 2026-04-05
+   ✅ Blog: /blog/hydraulic-broomer-vs-mechanical-broomer
+      Title: Hydraulic Broomer vs Mechanical Broomer: Which One Is Right for Your Road Project?
+      Date: 2026-03-15
+   ✅ Blog: /blog/wet-mix-plants-essential-machinery-strong-durable-roads
+      Title: Wet Mix Plants: Essential Machinery for Strong and Durable Roads
+      Date: 2026-03-30
+   ✅ Blog: /blog/mobile-vs-stationary-concrete-batch-plants
+      Title: Mobile vs Stationary Concrete Batch Plants: Making the Right Decision
+      Date: 2026-03-17
+   ✅ Blog: /blog/portable-asphalt-plants-small-medium-projects
+      Title: The Role of Portable Asphalt Plants in Small to Medium-Sized Projects
+      Date: 2026-03-17
+   ✅ Blog: /blog/mobile-hot-asphalt-plants-infrastructure-projects
+      Title: Key Benefits of Mobile Hot Asphalt Plants in Infrastructure Projects
+      Date: 2026-02-17
+   ✅ Blog: /blog/mabp-120-mobile-asphalt-batching-plant-australia
+      Title: MABP-120 Mobile Asphalt Batching Plant for Australia\u2019s Terrain & Climate
+      Date: 2026-02-17
+   ✅ Blog: /blog/stationary-concrete-plants-large-projects
+      Title: Stationary Concrete Plants: Ideal for Large-scale Construction
+      Date: 2026-02-15
+   ✅ Blog: /blog/how-to-choose-right-asphalt-plant
+      Title: How to Choose the Right Asphalt Plant for Your Construction Project
+      Date: 2024-01-15
+   ✅ Blog: /blog/mobile-concrete-batching-plants-benefits
+      Title: 5 Ways Mobile Concrete Batching Plants Make Construction Easier
+      Date: 2024-01-20
+   ✅ Blog: /blog/asphalt-batching-plants-complete-guide
+      Title: Asphalt Batching Plant Guide: How It Works, Key Components and Why Precision Batching Matters
+      Date: 2024-01-25
+   ✅ Blog: /blog/atlas-technologies-excon-2025-success-mabp-launch
+      Title: Atlas Technologies at EXCON 2025: Launching MABP 120-160 LITE and Ending the Year on a High Note
+      Date: 2025-12-28
+   ✅ Blog: /blog/choosing-right-mobile-asphalt-plant
+      Title: Choosing the Right Mobile Asphalt Plant for Your Construction Needs
+      Date: 2026-01-27
+   ✅ Blog: /blog/constro-pune-2026-insights
+      Title: CONSTRO Pune 2026 Insights: What the Construction Industry Expects from Equipment in 2026
+      Date: 2026-01-28
+   ✅ Blog: /blog/india-eu-fta-road-construction-machinery-export-opportunities-2026
+      Title: India-EU FTA & Road Construction Machinery: Export Opportunities for Indian Manufacturers in 2026
+      Date: 2026-02-01
+   ✅ Blog: /blog/eu-standards-compliance-exporting-asphalt-concrete-plants-india
+      Title: EU Standards & Compliance for Exporting Asphalt and Concrete Plants from India
+      Date: 2026-02-10
+
+📊 Successfully processed 23 blog posts
+
+📊 SUMMARY:
+   📄 Static pages: 137
+   📝 Blog posts: 23
+   ➕ Manual routes: 0
+   📊 Total routes: 160
+
+   🔍 All routes included in sitemap:
+      1. /about
+      2. /asphalt-machines/asphalt-machines1
+      3. /asphalt-machines
+      4. /asphalt-plants/asphalt-drum-mix-plant/dm200-180-200-tph
+      5. /asphalt-plants/asphalt-drum-mix-plant/dm25-20-30-tph
+      6. /asphalt-plants/asphalt-drum-mix-plant/dm35-30-40-tph
+      7. /asphalt-plants/asphalt-drum-mix-plant/dm45-40-60-tph
+      8. /asphalt-plants/asphalt-drum-mix-plant/dm50-60-90-tph
+      9. /asphalt-plants/asphalt-drum-mix-plant/dm60-90-120-tph
+      10. /asphalt-plants/asphalt-drum-mix-plant/dm65-120-150-tph
+      11. /asphalt-plants/asphalt-drum-mix-plant
+      12. /asphalt-plants/asphalt-mixing-plant
+      13. /asphalt-plants/counter-flow-asphalt-plant/cf-45-40-60-tph
+      14. /asphalt-plants/counter-flow-asphalt-plant/cf-50-60-90-tph
+      15. /asphalt-plants/counter-flow-asphalt-plant/cf-60-90-120-tph
+      16. /asphalt-plants/counter-flow-asphalt-plant/cf-65-120-150-tph
+      17. /asphalt-plants/counter-flow-asphalt-plant
+      18. /asphalt-plants/double-drum-asphalt-plant/ddm-45-40-60-tph
+      19. /asphalt-plants/double-drum-asphalt-plant/ddm-50-60-90-tph
+      20. /asphalt-plants/double-drum-asphalt-plant/ddm-60-90-120-tph
+      21. /asphalt-plants/double-drum-asphalt-plant/ddm-65-120-150-tph
+      22. /asphalt-plants/double-drum-asphalt-plant
+      23. /asphalt-plants
+      24. /asphalt-plants/mobile-asphalt-batching-plant/1000-kg-twin-shaft-mixer-80-tph
+      25. /asphalt-plants/mobile-asphalt-batching-plant/2000-kg-twin-shaft-mixer-160-tph
+      26. /asphalt-plants/mobile-asphalt-batching-plant
+      27. /asphalt-plants/mobile-asphalt-drum-mix-plant
+      28. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-45
+      29. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-50
+      30. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-60
+      31. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-65
+      32. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm25-20-30tph
+      33. /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm35-30-40tph
+      34. /asphalt-plants/stationary-asphalt-batching-plant/10000kg-twin-shaft-mixer-240-260-tph
+      35. /asphalt-plants/stationary-asphalt-batching-plant/1000kg-twin-shaft-mixer-60-80-tph
+      36. /asphalt-plants/stationary-asphalt-batching-plant/1250kg-twin-shaft-mixer-80-100-tph
+      37. /asphalt-plants/stationary-asphalt-batching-plant/1750kg-twin-shaft-mixer-140-tph
+      38. /asphalt-plants/stationary-asphalt-batching-plant/2000kg-twin-shaft-mixer-160-tph
+      39. /asphalt-plants/stationary-asphalt-batching-plant/2250kg-twin-shaft-mixer-180-tph
+      40. /asphalt-plants/stationary-asphalt-batching-plant/3000kg-twin-shaft-mixer-240-260-tph
+      41. /asphalt-plants/stationary-asphalt-batching-plant
+      42. /bitumen-decanter/acm-11
+      43. /bitumen-decanter/acm-4
+      44. /bitumen-decanter/acm-7
+      45. /bitumen-decanter/acm-9
+      46. /bitumen-decanter/drum-decanters
+      47. /bitumen-decanter
+      48. /bitumen-sprayer/ae-10000
+      49. /bitumen-sprayer/ae-12000
+      50. /bitumen-sprayer/ae-4000
+      51. /bitumen-sprayer/ae-6000
+      52. /bitumen-sprayer/ae-8000
+      53. /bitumen-sprayer/hyd-hopper-electric-model
+      54. /bitumen-sprayer
+      55. /blog
+      56. /careers
+      57. /case-studies
+      58. /concrete-mixer/hydraulic-hopper
+      59. /concrete-mixer
+      60. /concrete-mixer/mechanical-hopper
+      61. /concrete-mixer/without-hopper-diesel
+      62. /concrete-mixer/without-hopper-electric
+      63. /concrete-plants
+      64. /concrete-plants/mini-concrete-batching-plant
+      65. /concrete-plants/mini-concrete-batching-plant/rm-1050-diesel
+      66. /concrete-plants/mini-concrete-batching-plant/rm-1050-electric
+      67. /concrete-plants/mini-concrete-batching-plant/rm-800-diesel
+      68. /concrete-plants/mini-concrete-batching-plant/rm-800-electric
+      69. /concrete-plants/mobile-concrete-batching-plant-pan-mixer
+      70. /concrete-plants/mobile-concrete-batching-plant-pan-mixer/mobmix-classic-25
+      71. /concrete-plants/mobile-concrete-batching-plant-pan-mixer/mobmix-classic-30
+      72. /concrete-plants/mobile-concrete-batching-plant-planetary-mixer
+      73. /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-30
+      74. /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-45
+      75. /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-60
+      76. /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer
+      77. /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-30
+      78. /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-45
+      79. /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-60
+      80. /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-10
+      81. /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-15
+      82. /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-20
+      83. /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-25
+      84. /concrete-plants/reversible-mixer-concrete-plant
+      85. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-120
+      86. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-160
+      87. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-180
+      88. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-200
+      89. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-30
+      90. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-45
+      91. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-60
+      92. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-75
+      93. /concrete-plants/stationary-concrete-batching-plant/atmix-pro-90
+      94. /concrete-plants/stationary-concrete-batching-plant
+      95. /concrete-plants/stationary-concrete-batching-plant-pan-mixer/atmix-classic-30
+      96. /concrete-plants/stationary-concrete-batching-plant-pan-mixer/atmix-classic-45
+      97. /concrete-plants/stationary-concrete-batching-plant-pan-mixer
+      98. /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-30
+      99. /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-45
+      100. /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-60
+      101. /concrete-plants/stationary-concrete-batching-plant-planetary-mixer
+      102. /concrete-pump/acp-1405-d
+      103. /concrete-pump/acp-1407-d
+      104. /concrete-pump
+      105. /contact-us
+      106. /cookie-policy
+      107. /disclaimer
+      108. /
+      109. /kerb-cutting-machine
+      110. /kerb-cutting-machine/kerb-cutting-machine-1520-rs
+      111. /kerb-cutting-machine/kerb-cutting-machine-heavy-duty
+      112. /kerb-cutting-machine/kerb-cutting-machine-with-7-4hp
+      113. /mini-bitumen-sprayer/ai-3000
+      114. /mini-bitumen-sprayer
+      115. /other-products/groove-cutter/diesel-model
+      116. /other-products/groove-cutter/electric-model
+      117. /other-products/groove-cutter
+      118. /other-products/hydraulic-broomer/hydraulic-broom
+      119. /other-products/hydraulic-broomer
+      120. /other-products/hydraulic-broomer/mechanical-broom
+      121. /other-products
+      122. /other-products/kerb-laying-machine
+      123. /other-products/kerb-laying-machine/XL-400
+      124. /other-products/kerb-laying-machine/XL-550
+      125. /other-products/vacuum-dewatering-systems
+      126. /privacy-policy
+      127. /products
+      128. /refund-policy
+      129. /road-construction-machinery
+      130. /shipping-policy
+      131. /terms-and-conditions
+      132. /wet-mix-plant
+      133. /wet-mix-plant/wm-100
+      134. /wet-mix-plant/wm-160
+      135. /wet-mix-plant/wm-200
+      136. /wet-mix-plant/wm-250
+      137. /wet-mix-plant/wm-300
+      138. /blog/160-tph-asphalt-batch-mix-plant-gandhinagar-case-study
+      139. /blog/asphalt-plant-fuel-consumption-india-2026
+      140. /blog/why-retrofitting-beats-the-asphalt-plant-price-2026-roi-guide
+      141. /blog/is-poor-bitumen-quality-ruining-your-mix-asphalt-batch-mix-plant-solutions
+      142. /blog/rmc-plant-guide-2026-concrete-batching-plant-india
+      143. /blog/asphalt-plant-philippines-atlas-local-support-engineering
+      144. /blog/counterflow-asphalt-plants-profitable-path-2026
+      145. /blog/rise-of-rap-recycled-asphalt-pavement-road-construction-2026
+      146. /blog/hydraulic-broomer-vs-mechanical-broomer
+      147. /blog/wet-mix-plants-essential-machinery-strong-durable-roads
+      148. /blog/mobile-vs-stationary-concrete-batch-plants
+      149. /blog/portable-asphalt-plants-small-medium-projects
+      150. /blog/mobile-hot-asphalt-plants-infrastructure-projects
+      151. /blog/mabp-120-mobile-asphalt-batching-plant-australia
+      152. /blog/stationary-concrete-plants-large-projects
+      153. /blog/how-to-choose-right-asphalt-plant
+      154. /blog/mobile-concrete-batching-plants-benefits
+      155. /blog/asphalt-batching-plants-complete-guide
+      156. /blog/atlas-technologies-excon-2025-success-mabp-launch
+      157. /blog/choosing-right-mobile-asphalt-plant
+      158. /blog/constro-pune-2026-insights
+      159. /blog/india-eu-fta-road-construction-machinery-export-opportunities-2026
+      160. /blog/eu-standards-compliance-exporting-asphalt-concrete-plants-india
+
+✅ Sitemap generated successfully!
+📄 Created: C:\Users\Shree\Desktop\Atlas\ATLAS\public\sitemap.xml
+🌐 Available at: https://www.atlastechnologiesindia.com/sitemap.xml
+📊 Total pages: 160
+📏 File size: 36840 bytes
+
+📄 Sitemap preview (first 30 lines):
+   <?xml version="1.0" encoding="UTF-8"?>
+   <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+     <url>
+       <loc>https://www.atlastechnologiesindia.com/about</loc>
+       <lastmod>2026-08-13T13:02:44.416Z</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6</priority>
+     </url>
+     <url>
+       <loc>https://www.atlastechnologiesindia.com/asphalt-machines/asphalt-machines1</loc>
+       <lastmod>2026-08-13T13:02:44.419Z</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8</priority>
+     </url>
+     <url>
+       <loc>https://www.atlastechnologiesindia.com/asphalt-machines</loc>
+       <lastmod>2026-08-13T13:02:44.419Z</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8</priority>
+     </url>
+     <url>
+       <loc>https://www.atlastechnologiesindia.com/asphalt-plants/asphalt-drum-mix-plant/dm200-180-200-tph</loc>
+       <lastmod>2026-08-13T13:02:44.419Z</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8</priority>
+     </url>
+     <url>
+       <loc>https://www.atlastechnologiesindia.com/asphalt-plants/asphalt-drum-mix-plant/dm25-20-30-tph</loc>
+       <lastmod>2026-08-13T13:02:44.419Z</lastmod>
+       <changefreq>weekly</changefreq>
+   ... (933 more lines)
+   ▲ Next.js 15.2.4
+   - Environments: .env
+
+   Linting and checking validity of types ...
+
+./components/category/expolore_category.js
+61:17  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/category/faq1.js
+25:11  Warning: Image elements must have an alt prop, either with meaningful text, or an empty string for decorative images.  jsx-a11y/alt-text
+
+./components/footer.js
+81:19  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+97:21  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+109:21  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+121:21  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+155:25  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+175:25  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+241:27  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/homepage/certified.js
+60:17  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/homepage/partner.js
+51:13  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+80:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/homepage/project.js
+141:17  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+146:17  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+157:17  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+162:17  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+182:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+187:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+198:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+203:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/homepage/whychooseus.js
+65:17  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/homepage/youtube_slider.js
+119:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+164:23  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/marquee.js
+15:7  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/MegaMenuPanel.js
+52:19  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+80:13  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/others/BlogCards.js
+6:7  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/others/FeatureSlider;.js
+72:13  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+80:13  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/others/FullScreenMobileMenu.js
+51:13  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+79:23  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+97:17  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+115:23  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+122:21  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+139:17  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+163:23  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/others/Pagination.js
+33:11  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+71:11  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/others/productSlider.js
+110:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+118:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+135:21  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/products/filter.js
+182:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./components/products/productslider.js
+40:6  Warning: React Hook useEffect has a missing dependency: 'startTimer'. Either include it or remove the dependency array.  react-hooks/exhaustive-deps
+
+./src/pages/_app.js
+25:6  Warning: React Hook useEffect has a missing dependency: 'router.events'. Either include it or remove the dependency array.  react-hooks/exhaustive-deps
+
+./src/pages/_document.js
+10:9  Warning: Prefer `next/script` component when using the inline script for Google Analytics. See: https://nextjs.org/docs/messages/next-script-for-ga  @next/next/next-script-for-ga
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/app/api-reference/config/eslint#disabling-rules
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Collecting page data ...
+   Generating static pages (0/173) ...
+Invalid href '//asphalt-plants/mobile-asphalt-batching-plant' passed to next/router in page: '/asphalt-plants/double-drum-asphalt-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/stationary-asphalt-batching-plant' passed to next/router in page: '/asphalt-plants/double-drum-asphalt-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/counter-flow-asphalt-plant' passed to next/router in page: '/asphalt-plants/double-drum-asphalt-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/asphalt-drum-mix-plant' passed to next/router in page: '/asphalt-plants/double-drum-asphalt-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/mobile-asphalt-drum-mix-plant' passed to next/router in page: '/asphalt-plants/double-drum-asphalt-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/mobile-asphalt-batching-plant' passed to next/router in page: '/asphalt-plants/asphalt-drum-mix-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/stationary-asphalt-batching-plant' passed to next/router in page: '/asphalt-plants/asphalt-drum-mix-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/double-drum-asphalt-plant' passed to next/router in page: '/asphalt-plants/asphalt-drum-mix-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/counter-flow-asphalt-plant' passed to next/router in page: '/asphalt-plants/asphalt-drum-mix-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/mobile-asphalt-drum-mix-plant' passed to next/router in page: '/asphalt-plants/asphalt-drum-mix-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/stationary-asphalt-batching-plant' passed to next/router in page: '/asphalt-plants/mobile-asphalt-batching-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/double-drum-asphalt-plant' passed to next/router in page: '/asphalt-plants/mobile-asphalt-batching-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/counter-flow-asphalt-plant' passed to next/router in page: '/asphalt-plants/mobile-asphalt-batching-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/asphalt-drum-mix-plant' passed to next/router in page: '/asphalt-plants/mobile-asphalt-batching-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/mobile-asphalt-drum-mix-plant' passed to next/router in page: '/asphalt-plants/mobile-asphalt-batching-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/mobile-asphalt-batching-plant' passed to next/router in page: '/asphalt-plants/mobile-asphalt-drum-mix-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/stationary-asphalt-batching-plant' passed to next/router in page: '/asphalt-plants/mobile-asphalt-drum-mix-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/double-drum-asphalt-plant' passed to next/router in page: '/asphalt-plants/mobile-asphalt-drum-mix-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/counter-flow-asphalt-plant' passed to next/router in page: '/asphalt-plants/mobile-asphalt-drum-mix-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/asphalt-drum-mix-plant' passed to next/router in page: '/asphalt-plants/mobile-asphalt-drum-mix-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/mobile-asphalt-batching-plant' passed to next/router in page: '/asphalt-plants/counter-flow-asphalt-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/stationary-asphalt-batching-plant' passed to next/router in page: '/asphalt-plants/counter-flow-asphalt-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/double-drum-asphalt-plant' passed to next/router in page: '/asphalt-plants/counter-flow-asphalt-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/asphalt-drum-mix-plant' passed to next/router in page: '/asphalt-plants/counter-flow-asphalt-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/mobile-asphalt-drum-mix-plant' passed to next/router in page: '/asphalt-plants/counter-flow-asphalt-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/mobile-asphalt-batching-plant' passed to next/router in page: '/asphalt-plants/stationary-asphalt-batching-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/double-drum-asphalt-plant' passed to next/router in page: '/asphalt-plants/stationary-asphalt-batching-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/counter-flow-asphalt-plant' passed to next/router in page: '/asphalt-plants/stationary-asphalt-batching-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/asphalt-drum-mix-plant' passed to next/router in page: '/asphalt-plants/stationary-asphalt-batching-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+Invalid href '//asphalt-plants/mobile-asphalt-drum-mix-plant' passed to next/router in page: '/asphalt-plants/stationary-asphalt-batching-plant'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+   Generating static pages (43/173) 
+   Generating static pages (86/173) 
+   Generating static pages (129/173) 
+ ✓ Generating static pages (173/173)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (pages)                                                                                           Size  First Load JS
+┌ ○ /                                                                                                10.5 kB         316 kB
+├   /_app                                                                                                0 B         173 kB
+├ ○ /404                                                                                             1.29 kB         174 kB
+├ ○ /about (549 ms)                                                                                  7.14 kB         316 kB
+├ ƒ /api/brochure-lead                                                                                   0 B         173 kB
+├ ƒ /api/hello                                                                                           0 B         173 kB
+├ ƒ /api/job-alert                                                                                       0 B         173 kB
+├ ƒ /api/sendmail                                                                                        0 B         173 kB
+├ ƒ /api/test-sendgrid                                                                                   0 B         173 kB
+├ ○ /asphalt-machines (2432 ms)                                                                      4.18 kB         201 kB
+├ ○ /asphalt-machines/asphalt-machines1 (2436 ms)                                                    4.53 kB         201 kB
+├ ○ /asphalt-plants (524 ms)                                                                         9.41 kB         328 kB
+├ ○ /asphalt-plants/asphalt-drum-mix-plant (681 ms)                                                  4.16 kB         213 kB
+├ ○ /asphalt-plants/asphalt-drum-mix-plant/dm200-180-200-tph (2479 ms)                               3.42 kB         199 kB
+├ ○ /asphalt-plants/asphalt-drum-mix-plant/dm25-20-30-tph (2479 ms)                                  3.13 kB         199 kB
+├ ○ /asphalt-plants/asphalt-drum-mix-plant/dm35-30-40-tph (2479 ms)                                  3.31 kB         199 kB
+├ ○ /asphalt-plants/asphalt-drum-mix-plant/dm45-40-60-tph (2478 ms)                                   3.5 kB         200 kB
+├ ○ /asphalt-plants/asphalt-drum-mix-plant/dm50-60-90-tph (2480 ms)                                  3.38 kB         199 kB
+├ ○ /asphalt-plants/asphalt-drum-mix-plant/dm60-90-120-tph (2480 ms)                                 3.23 kB         199 kB
+├ ○ /asphalt-plants/asphalt-drum-mix-plant/dm65-120-150-tph (540 ms)                                 3.44 kB         199 kB
+├ ○ /asphalt-plants/asphalt-mixing-plant (546 ms)                                                    9.11 kB         327 kB
+├ ○ /asphalt-plants/counter-flow-asphalt-plant (484 ms)                                              4.04 kB         213 kB
+├ ○ /asphalt-plants/counter-flow-asphalt-plant/cf-45-40-60-tph (541 ms)                              3.19 kB         199 kB
+├ ○ /asphalt-plants/counter-flow-asphalt-plant/cf-50-60-90-tph (524 ms)                              3.29 kB         199 kB
+├ ○ /asphalt-plants/counter-flow-asphalt-plant/cf-60-90-120-tph (531 ms)                              3.1 kB         199 kB
+├ ○ /asphalt-plants/counter-flow-asphalt-plant/cf-65-120-150-tph (531 ms)                            3.13 kB         199 kB
+├ ○ /asphalt-plants/double-drum-asphalt-plant (3039 ms)                                              4.15 kB         213 kB
+├ ○ /asphalt-plants/double-drum-asphalt-plant/ddm-45-40-60-tph (529 ms)                              3.22 kB         199 kB
+├ ○ /asphalt-plants/double-drum-asphalt-plant/ddm-50-60-90-tph (682 ms)                              3.45 kB         199 kB
+├ ○ /asphalt-plants/double-drum-asphalt-plant/ddm-60-90-120-tph (681 ms)                             3.73 kB         200 kB
+├ ○ /asphalt-plants/double-drum-asphalt-plant/ddm-65-120-150-tph (681 ms)                            3.49 kB         200 kB
+├ ○ /asphalt-plants/mobile-asphalt-batching-plant (702 ms)                                           3.77 kB         212 kB
+├ ○ /asphalt-plants/mobile-asphalt-batching-plant/1000-kg-twin-shaft-mixer-80-tph (681 ms)            3.3 kB         199 kB
+├ ○ /asphalt-plants/mobile-asphalt-batching-plant/1500-kg-twin-shaft-mixer-120-tph (704 ms)          3.02 kB         199 kB
+├ ○ /asphalt-plants/mobile-asphalt-batching-plant/2000-kg-twin-shaft-mixer-160-tph (703 ms)          2.98 kB         199 kB
+├ ○ /asphalt-plants/mobile-asphalt-drum-mix-plant                                                    4.23 kB         213 kB
+├ ○ /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-45                                             3.35 kB         199 kB
+├ ○ /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-50                                             3.41 kB         199 kB
+├ ○ /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-60                                              3.4 kB         199 kB
+├ ○ /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm-65                                             3.42 kB         199 kB
+├ ○ /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm25-20-30tph (655 ms)                            3.32 kB         199 kB
+├ ○ /asphalt-plants/mobile-asphalt-drum-mix-plant/mdm35-30-40tph                                      3.4 kB         199 kB
+├ ○ /asphalt-plants/stationary-asphalt-batching-plant (650 ms)                                        4.1 kB         213 kB
+├ ○ /asphalt-plants/stationary-asphalt-batching-plant/10000kg-twin-shaft-mixer-240-260-tph (528 ms)  4.36 kB         200 kB
+├ ○ /asphalt-plants/stationary-asphalt-batching-plant/1000kg-twin-shaft-mixer-60-80-tph              4.58 kB         201 kB
+├ ○ /asphalt-plants/stationary-asphalt-batching-plant/1250kg-twin-shaft-mixer-80-100-tph (302 ms)    3.63 kB         200 kB
+├ ○ /asphalt-plants/stationary-asphalt-batching-plant/1500kg-twin-shaft-mixer-120-tph (528 ms)       3.76 kB         200 kB
+├ ○ /asphalt-plants/stationary-asphalt-batching-plant/1750kg-twin-shaft-mixer-140-tph (484 ms)       3.72 kB         200 kB
+├ ○ /asphalt-plants/stationary-asphalt-batching-plant/2000kg-twin-shaft-mixer-160-tph (527 ms)       3.51 kB         200 kB
+├ ○ /asphalt-plants/stationary-asphalt-batching-plant/2250kg-twin-shaft-mixer-180-tph (525 ms)       3.69 kB         200 kB
+├ ○ /asphalt-plants/stationary-asphalt-batching-plant/2500kg-twin-shaft-mixer-200-tph (314 ms)       3.58 kB         200 kB
+├ ○ /asphalt-plants/stationary-asphalt-batching-plant/3000kg-twin-shaft-mixer-240-260-tph (526 ms)   3.59 kB         200 kB
+├ ○ /asphalt-plants/stationary-asphalt-batching-plant/5000kg-twin-shaft-mixer-240-260-tph (653 ms)   3.44 kB         199 kB
+├ ○ /bitumen-decanter (315 ms)                                                                       3.68 kB         212 kB
+├ ○ /bitumen-decanter/acm-11 (649 ms)                                                                3.46 kB         199 kB
+├ ○ /bitumen-decanter/acm-4 (650 ms)                                                                 3.43 kB         199 kB
+├ ○ /bitumen-decanter/acm-7 (649 ms)                                                                  3.6 kB         200 kB
+├ ○ /bitumen-decanter/acm-9 (684 ms)                                                                 3.52 kB         200 kB
+├ ○ /bitumen-decanter/drum-decanters (648 ms)                                                         3.5 kB         200 kB
+├ ○ /bitumen-sprayer                                                                                 3.78 kB         212 kB
+├ ○ /bitumen-sprayer/ae-10000 (315 ms)                                                               3.12 kB         199 kB
+├ ○ /bitumen-sprayer/ae-12000 (316 ms)                                                               3.12 kB         199 kB
+├ ○ /bitumen-sprayer/ae-4000 (315 ms)                                                                3.02 kB         199 kB
+├ ○ /bitumen-sprayer/ae-6000 (315 ms)                                                                3.35 kB         199 kB
+├ ○ /bitumen-sprayer/ae-8000 (314 ms)                                                                3.19 kB         199 kB
+├ ○ /bitumen-sprayer/hyd-hopper-electric-model (314 ms)                                              3.06 kB         199 kB
+├ ● /blog (477 ms)                                                                                   1.65 kB         175 kB
+├ ● /blog/[slug] (7083 ms)                                                                           2.25 kB         286 kB
+├   ├ /blog/rmc-plant-guide-2026-concrete-batching-plant-india (498 ms)
+├   ├ /blog/asphalt-plant-philippines-atlas-local-support-engineering (497 ms)
+├   ├ /blog/counterflow-asphalt-plants-profitable-path-2026 (495 ms)
+├   ├ /blog/asphalt-plant-fuel-consumption-india-2026 (492 ms)
+├   ├ /blog/why-retrofitting-beats-the-asphalt-plant-price-2026-roi-guide (491 ms)
+├   ├ /blog/is-poor-bitumen-quality-ruining-your-mix-asphalt-batch-mix-plant-solutions (491 ms)
+├   ├ /blog/160-tph-asphalt-batch-mix-plant-gandhinagar-case-study (476 ms)
+├   └ [+16 more paths]
+├ ● /blog/page/[page] (1667 ms)                                                                      1.54 kB         174 kB
+├   ├ /blog/page/1 (579 ms)
+├   ├ /blog/page/2 (544 ms)
+├   └ /blog/page/3 (544 ms)
+├ ○ /careers                                                                                          3.6 kB         177 kB
+├ ○ /case-studies (2675 ms)                                                                          9.65 kB         186 kB
+├ ● /case-studies/[slug] (2201 ms)                                                                   20.5 kB         193 kB
+├   ├ /case-studies/wm-200-uae (576 ms)
+├   ├ /case-studies/mobile-drum-mix-maldives (543 ms)
+├   ├ /case-studies/mabp-120-philippines (542 ms)
+├   └ /case-studies/abp-160-highway (540 ms)
+├ ○ /concrete-mixer (3104 ms)                                                                        6.12 kB         336 kB
+├ ○ /concrete-mixer/hydraulic-hopper (3098 ms)                                                       3.06 kB         199 kB
+├ ○ /concrete-mixer/mechanical-hopper (3100 ms)                                                      3.05 kB         199 kB
+├ ○ /concrete-mixer/without-hopper-diesel (3097 ms)                                                  2.95 kB         199 kB
+├ ○ /concrete-mixer/without-hopper-electric (3102 ms)                                                2.97 kB         199 kB
+├ ○ /concrete-plants (439 ms)                                                                        8.53 kB         327 kB
+├ ○ /concrete-plants/mini-concrete-batching-plant (3101 ms)                                          6.27 kB         337 kB
+├ ○ /concrete-plants/mini-concrete-batching-plant/rm-1050-diesel (428 ms)                            3.04 kB         199 kB
+├ ○ /concrete-plants/mini-concrete-batching-plant/rm-1050-electric (460 ms)                          2.82 kB         199 kB
+├ ○ /concrete-plants/mini-concrete-batching-plant/rm-800-diesel (459 ms)                             2.92 kB         199 kB
+├ ○ /concrete-plants/mini-concrete-batching-plant/rm-800-electric (458 ms)                           2.85 kB         199 kB
+├ ○ /concrete-plants/mobile-concrete-batching-plant-pan-mixer (457 ms)                               5.06 kB         335 kB
+├ ○ /concrete-plants/mobile-concrete-batching-plant-pan-mixer/mobmix-classic-25 (425 ms)             3.42 kB         199 kB
+├ ○ /concrete-plants/mobile-concrete-batching-plant-pan-mixer/mobmix-classic-30 (308 ms)             3.55 kB         200 kB
+├ ○ /concrete-plants/mobile-concrete-batching-plant-planetary-mixer (456 ms)                         4.97 kB         335 kB
+├ ○ /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-30 (663 ms)          3.42 kB         199 kB
+├ ○ /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-45 (308 ms)           3.5 kB         200 kB
+├ ○ /concrete-plants/mobile-concrete-batching-plant-planetary-mixer/mobmix-plus-60 (307 ms)          3.52 kB         200 kB
+├ ○ /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer (307 ms)                        6.28 kB         337 kB
+├ ○ /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-30 (307 ms)          3.65 kB         200 kB
+├ ○ /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-45 (308 ms)          3.68 kB         200 kB
+├ ○ /concrete-plants/mobile-concrete-batching-plant-twin-shaft-mixer/mobmix-pro-60 (307 ms)          3.68 kB         200 kB
+├ ○ /concrete-plants/reversible-mixer-concrete-plant                                                 6.94 kB         337 kB
+├ ○ /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-10 (306 ms)                              2.8 kB         199 kB
+├ ○ /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-15                                      2.85 kB         199 kB
+├ ○ /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-20                                      2.97 kB         199 kB
+├ ○ /concrete-plants/reversible-mixer-concrete-plant/amcb-rm-25                                         3 kB         199 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant                                              3.67 kB         212 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant-pan-mixer (390 ms)                           6.14 kB         336 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant-pan-mixer/atmix-classic-30                   3.17 kB         199 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant-pan-mixer/atmix-classic-45                   3.35 kB         199 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant-planetary-mixer (420 ms)                     6.06 kB         336 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-30                3.73 kB         200 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-45                3.63 kB         200 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant-planetary-mixer/atmix-plus-60 (390 ms)        3.6 kB         200 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant/atmix-pro-120 (386 ms)                        3.6 kB         200 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant/atmix-pro-160 (390 ms)                       3.54 kB         200 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant/atmix-pro-180 (385 ms)                       3.51 kB         200 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant/atmix-pro-200 (419 ms)                       3.55 kB         200 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant/atmix-pro-30                                 3.62 kB         200 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant/atmix-pro-45 (664 ms)                        3.59 kB         200 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant/atmix-pro-60 (385 ms)                        3.56 kB         200 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant/atmix-pro-75 (665 ms)                        3.57 kB         200 kB
+├ ○ /concrete-plants/stationary-concrete-batching-plant/atmix-pro-90 (668 ms)                        3.58 kB         200 kB
+├ ○ /concrete-pump (663 ms)                                                                          6.08 kB         336 kB
+├ ○ /concrete-pump/acp-1405-d (664 ms)                                                               2.93 kB         199 kB
+├ ○ /concrete-pump/acp-1407-d (665 ms)                                                               3.04 kB         199 kB
+├ ○ /contact-us (662 ms)                                                                             3.09 kB         176 kB
+├ ○ /cookie-policy                                                                                    2.2 kB         175 kB
+├ ○ /disclaimer                                                                                      2.06 kB         175 kB
+├ ○ /kerb-cutting-machine                                                                            5.88 kB         336 kB
+├ ○ /kerb-cutting-machine/kerb-cutting-machine-1520-rs                                               3.06 kB         199 kB
+├ ○ /kerb-cutting-machine/kerb-cutting-machine-heavy-duty                                            3.11 kB         199 kB
+├ ○ /kerb-cutting-machine/kerb-cutting-machine-with-7-4hp                                            3.02 kB         199 kB
+├ ○ /mini-bitumen-sprayer (330 ms)                                                                   2.81 kB         211 kB
+├ ○ /mini-bitumen-sprayer/ai-3000 (374 ms)                                                           2.91 kB         199 kB
+├ ○ /other-products (2882 ms)                                                                        7.98 kB         326 kB
+├ ○ /other-products/groove-cutter (2882 ms)                                                          5.69 kB         336 kB
+├ ○ /other-products/groove-cutter/diesel-model                                                       3.09 kB         199 kB
+├ ○ /other-products/groove-cutter/electric-model (2892 ms)                                            3.1 kB         199 kB
+├ ○ /other-products/hydraulic-broomer (2880 ms)                                                      2.89 kB         211 kB
+├ ○ /other-products/hydraulic-broomer/hydraulic-broom (2883 ms)                                      3.06 kB         199 kB
+├ ○ /other-products/hydraulic-broomer/mechanical-broom (2882 ms)                                     3.05 kB         199 kB
+├ ○ /other-products/kerb-laying-machine (377 ms)                                                     6.15 kB         336 kB
+├ ○ /other-products/kerb-laying-machine/XL-400 (2882 ms)                                             3.23 kB         199 kB
+├ ○ /other-products/kerb-laying-machine/XL-550 (2882 ms)                                             3.29 kB         199 kB
+├ ○ /other-products/vacuum-dewatering-systems (376 ms)                                                7.5 kB         326 kB
+├ ○ /privacy-policy (374 ms)                                                                         4.58 kB         178 kB
+├ ○ /products (374 ms)                                                                               8.11 kB         212 kB
+├ ○ /refund-policy (374 ms)                                                                          4.14 kB         177 kB
+├ ○ /road-construction-machinery (373 ms)                                                            6.88 kB         325 kB
+├ ○ /shipping-policy (374 ms)                                                                         4.3 kB         177 kB
+├ ○ /terms-and-conditions (331 ms)                                                                   4.01 kB         177 kB
+├ ○ /wet-mix-plant (329 ms)                                                                           3.3 kB         212 kB
+├ ○ /wet-mix-plant/wm-100 (330 ms)                                                                   3.04 kB         199 kB
+├ ○ /wet-mix-plant/wm-160 (330 ms)                                                                   3.03 kB         199 kB
+├ ○ /wet-mix-plant/wm-200 (329 ms)                                                                   3.16 kB         199 kB
+├ ○ /wet-mix-plant/wm-250 (329 ms)                                                                   3.17 kB         199 kB
+└ ○ /wet-mix-plant/wm-300 (330 ms)                                                                   3.23 kB         199 kB
++ First Load JS shared by all                                                                         212 kB
+  ├ chunks/framework-ac08ce257f2b1865.js                                                             57.7 kB
+  ├ chunks/main-3f4ac76efa862b27.js                                                                  32.2 kB
+  ├ chunks/pages/_app-9ab3e8941319ee78.js                                                            80.8 kB
+  ├ css/faf4f270ae3f3c9b.css                                                                         38.9 kB
+  └ other shared chunks (total)                                                                      2.17 kB
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses getStaticProps)
+ƒ  (Dynamic)  server-rendered on demand
+

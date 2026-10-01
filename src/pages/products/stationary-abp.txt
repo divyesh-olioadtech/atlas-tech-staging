@@ -1,0 +1,225 @@
+import Category_Banner from "../../../components/category/category_banner";
+import Category_intro from "../../../components/category/category_intro";
+import FAQSection1 from "../../../components/category/faq1";
+import FAQSection2 from "../../../components/category/faq2";
+import ContactForm from "../../../components/category/form";
+import Blog from "../../../components/homepage/blog";
+import Certified from "../../../components/homepage/certified";
+import Clients from "../../../components/homepage/clients";
+import WorldMapComponent from "../../../components/homepage/mapview";
+import ProductFilterComponent from "../../../components/products/filter";
+
+export default function Stationary_abp() {
+  //<br className="hidden md:block" />
+  const category_banner_data = {
+    title: (
+      <span>
+        Stationary Asphalt Batch <br className="hidden md:block" /> Plants (ABP)
+      </span>
+    ),
+    para: "Lorem Ipsum Dolor is a dummy text",
+    img: "/images/comman/bg3.jpeg",
+  };
+  const products = [
+    {
+      name: "ABP Series (80)",
+      capacity: 80,
+      mixerSize: 1000,
+      tags: "Stationary",
+      url: "abp-80",
+    },
+    {
+      name: "ABP Series (100)",
+      capacity: 100,
+      mixerSize: 1250,
+      tags: "Stationary",
+      url: "abp-80",
+    },
+    {
+      name: "ABP Series (120)",
+      capacity: 120,
+      mixerSize: 1500,
+      tags: "Stationary",
+      url: "abp-80",
+    },
+    {
+      name: "ABP Series (140)",
+      capacity: 140,
+      mixerSize: 1750,
+      tags: "Stationary",
+      url: "abp-80",
+    },
+    {
+      name: "ABP Series (160)",
+      capacity: 160,
+      mixerSize: 2000,
+      tags: "Stationary",
+      url: "abp-80",
+    },
+    {
+      name: "ABP Series (180)",
+      capacity: 180,
+      mixerSize: 2250,
+      tags: "Stationary",
+      url: "abp-80",
+    },
+    {
+      name: "ABP Series (200)",
+      capacity: 200,
+      mixerSize: 2500,
+      tags: "Stationary",
+      url: "abp-80",
+    },
+    {
+      name: "ABP Series (220)",
+      capacity: 220,
+      mixerSize: 2750,
+      tags: "Stationary",
+      url: "abp-80",
+    },
+    {
+      name: "ABP Series (240)",
+      capacity: 240,
+      mixerSize: 3000,
+      tags: "Stationary",
+      url: "abp-80",
+    },
+  ];
+  const category_intro_data = {
+    subtitle: "Overview",
+    title: "Atlas Asphalt Products are Lorem ipsum dolor.",
+    para: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    img: "/images/comman/product_dump.png",
+    bg: true,
+  };
+  const faqData = [
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+    {
+      title:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      content:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    },
+  ];
+  const faqData1 = [
+    {
+      title: "1. Precision Engineering",
+      content: (
+        <ul className="pl-4 space-y-1 list-none">
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>{" "}
+            <span className="font-bold">Automated batching </span> ≤ 0.5%
+            material variance) (+- 2% for aggregate, 05-1 % on cement and other
+            material)
+          </li>
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>
+            <span className="font-bold">SCADA-controlled</span> mix consistency
+          </li>
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>{" "}
+            <span className="font-bold">RMC & precast optimized</span> recipes
+          </li>
+        </ul>
+      ),
+    },
+    {
+      title: "2. Rugged Reliability",
+      content: (
+        <ul className="pl-4 space-y-1 list-none">
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>{" "}
+            <span className="font-bold">Military-grade hydraulics </span>
+            (-20°C to 55°C operation)
+          </li>
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>{" "}
+            <span className="font-bold">Dust-free loading</span> systems
+          </li>
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>{" "}
+            <span className="font-bold">10,000+ hour</span>{" "}
+            mean-time-between-failure
+          </li>
+        </ul>
+      ),
+    },
+    {
+      title: "3. Sustainable Production",
+      content: (
+        <ul className="pl-4 space-y-1 list-none">
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>{" "}
+            <span className="font-bold">30% recycled aggregate</span> save 70%
+            compatibility
+          </li>
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>{" "}
+            <span className="font-bold">Zero wastewater discharge</span>{" "}
+            technology
+          </li>
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>{" "}
+            <span className="font-bold">Hybrid power options </span>{" "}
+            (solar/Genrator powered/AC supply)
+          </li>
+        </ul>
+      ),
+    },
+    {
+      title: "4. Smart Mobility",
+      content: (
+        <ul className="pl-4 space-y-1 list-none">
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>{" "}
+            <span className="font-bold">Containerized plants </span> for global
+            shipping
+          </li>
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>
+            <span className="font-bold"> Plug-and-play</span> modules
+          </li>
+          <li>
+            <span className="font-bold text-[22px] text-red-400">✓</span>{" "}
+            <span className="font-bold">Remote diagnostics </span> via Atlas IoT
+          </li>
+        </ul>
+      ),
+    },
+  ];
+  return (
+    <>
+      <Category_Banner data={category_banner_data} />
+      <ProductFilterComponent products={products} />
+      <Category_intro data={category_intro_data} />
+      <FAQSection1
+        faqData={faqData1}
+        minititle={"Why Atlas Leads the Concrete Industry"}
+        title={"Cutting-Edge Tech with Unmatched After-Sales Services"}
+      />
+      <Certified />
+      <WorldMapComponent />
+      <Blog />
+      <Clients />
+      <ContactForm />
+      <FAQSection2 faqData={faqData} bg={"bg-[#E7F1E9]"} />
+    </>
+  );
+}
